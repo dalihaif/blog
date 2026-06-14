@@ -1,0 +1,63 @@
+baseURL = 'https://dalihaif.github.io/blog/'
+languageCode = 'zh-cn'
+title = '老墨的博客'
+theme = 'PaperMod'
+
+# 个人信息
+[params]
+  author = "李海峰"
+  description = "一个在医院档案室里写代码、做设计、玩区块链的 70 后技术爱好者"
+  keywords = ["博客", "档案管理", "技术", "设计", "区块链"]
+  defaultTheme = "auto" # auto, light, dark
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  
+  # 社交链接
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/dalihaif"
+  
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:dlaihaif@qq.com"
+
+# 菜单配置
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 10
+  
+  [[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 20
+  
+  [[menu.main]]
+    identifier = "tags"
+    name = "标签"
+    url = "/tags/"
+    weight = 30
+  
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about/"
+    weight = 40
+
+# 输出格式
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# Permalink 配置
+[permalinks]
+  posts = "/posts/:title/"
