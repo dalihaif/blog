@@ -1,0 +1,73 @@
+backend:
+  name: github
+  repo: dalihaif/blog
+  branch: master
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
+
+media_folder: "img/uploads"
+public_folder: "img/uploads"
+
+site_url: https://dalihaif.github.io/blog
+display_url: https://dalihaif.github.io/blog
+logo_url: /blog/img/header-bg.png
+
+locale: zh_CN
+
+collections:
+  - name: "posts"
+    label: "文章"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    sortable_fields: ["date", "title", "author"]
+    fields:
+      - { label: "布局", name: "layout", widget: "hidden", default: "post" }
+      - { label: "标题", name: "title", widget: "string", required: true }
+      - { label: "副标题", name: "subtitle", widget: "string", required: false }
+      - { label: "发布日期", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm", format: "YYYY-MM-DD HH:mm", required: true }
+      - { label: "作者", name: "author", widget: "string", default: "老墨" }
+      - { label: "头图路径", name: "header-img", widget: "string", default: "img/home-bg.jpg", required: false }
+      - { label: "标签", name: "tags", widget: "list", required: false, allow_add: true }
+      - { label: "分类", name: "categories", widget: "list", required: false, allow_add: true }
+      - { label: "正文", name: "body", widget: "markdown" }
+
+  - name: "pages"
+    label: "页面"
+    files:
+      - label: "关于我"
+        name: "about"
+        file: "about.md"
+        fields:
+          - { label: "布局", name: "layout", widget: "hidden", default: "page" }
+          - { label: "标题", name: "title", widget: "string" }
+          - { label: "描述", name: "description", widget: "string" }
+          - { label: "头图路径", name: "header-img", widget: "string", required: false }
+          - { label: "头图遮罩", name: "header-mask", widget: "number", value_type: "float", required: false }
+          - { label: "正文", name: "body", widget: "markdown" }
+
+      - label: "首页"
+        name: "index"
+        file: "index.html"
+        fields:
+          - { label: "布局", name: "layout", widget: "hidden", default: "page" }
+          - { label: "描述", name: "description", widget: "string" }
+          - { label: "隐藏首页标题", name: "hide-header-title", widget: "boolean", default: true }
+
+  - name: "settings"
+    label: "站点设置"
+    files:
+      - label: "全局配置"
+        name: "config"
+        file: "_config.yml"
+        fields:
+          - { label: "站点标题", name: "title", widget: "string" }
+          - { label: "SEO 标题", name: "SEOTitle", widget: "string" }
+          - { label: "默认头图", name: "header-img", widget: "string" }
+          - { label: "邮箱", name: "email", widget: "string" }
+          - { label: "站点描述", name: "description", widget: "string" }
+          - { label: "关键词", name: "keyword", widget: "string" }
+          - { label: "GitHub 用户名", name: "github_username", widget: "string" }
+          - { label: "QQ 号", name: "qq_number", widget: "string", required: false }
+          - { label: "抖音号", name: "douyin_id", widget: "string", required: false }
+          - { label: "侧栏描述", name: "sidebar-about-description", widget: "string" }

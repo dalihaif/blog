@@ -35,7 +35,15 @@ exclude:
     "package.json",
     "README.md",
     "README.zh.md",
+    "DEPLOY.md",
+    "BLOG_README.md",
+    "PROJECT_SUMMARY.md",
+    "快速开始.md",
+    "Gemfile",
+    "Gemfile.lock",
+    "netlify.toml",
   ]
+include: ["_redirects"]
 anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
 #timezone: CN
