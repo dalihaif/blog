@@ -2,13 +2,13 @@
 layout: page
 title: "关于我"
 description: "在平凡的岗位上，做不平凡的事"
-header-img: "img/home-bg.jpg"
+header-img: "img/header-bg.png"
 header-mask: 0.3
 ---
 
 ## 👤 关于我
 
-**本名：** 李海峰 | **网名：** 老墨  
+**网名：** 老墨  
 **出生：** 1977 年 · 云南大理  
 **职业：** 大理大学第一附属医院 档案室  
 
@@ -125,6 +125,8 @@ header-mask: 0.3
 - **所在城市:** 云南 · 大理
 - **座右铭:** 技术改变工作，设计美化生活
 - **Email:** [dlaihaif@qq.com](mailto:dlaihaif@qq.com)
+- **QQ:** 81108411
+- **抖音:** 886722839
 - **Tel:** 13988531240
 
 ---

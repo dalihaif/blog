@@ -5,7 +5,7 @@
 ### 1. 基础配置
 - ✅ 更新 `_config.yml` 配置文件
   - 博客标题：老墨的博客
-  - 个人信息：李海峰（老墨）
+  - 个人信息：老墨
   - GitHub: dalihaif
   - 邮箱：dlaihaif@qq.com
   - 博客描述和关键词
@@ -166,7 +166,7 @@ blog-new/
    title: "文章标题"
    subtitle: "副标题"
    date: 2024-01-15
-   author: "李海峰"
+   author: "老墨"
    header-img: "img/your-image.jpg"
    tags:
      - 标签1

@@ -1,10 +1,10 @@
 # Site settings
 title: 老墨的博客
-SEOTitle: 老墨的博客 | 李海峰的个人空间
-header-img: img/home-bg.jpg
+SEOTitle: 老墨的博客
+header-img: img/header-bg.png
 email: dlaihaif@qq.com
 description: "一个在医院档案室里写代码、做设计、玩区块链的 70 后技术爱好者 | 技术改变工作，设计美化生活"
-keyword: "李海峰, 老墨, dalihaif, 医院档案管理, 区块链存证, VI设计, Logo设计, 前端开发, 平面设计, 大理大学第一附属医院"
+keyword: "老墨, dalihaif, 医院档案管理, 区块链存证, VI设计, Logo设计, 前端开发, 平面设计, 大理大学第一附属医院"
 url: "https://dalihaif.github.io" # your host, for absolute URL
 baseurl: "/blog" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -19,6 +19,8 @@ github_username: dalihaif
 #twitter_username: 
 #facebook_username:  
 #linkedin_username:
+qq_number: "81108411"
+douyin_id: "886722839"
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.

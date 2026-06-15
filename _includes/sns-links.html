@@ -78,4 +78,24 @@
     </a>
   </li>
   {% endif %}
+  {% if site.qq_number %}
+  <li>
+    <a target="_blank" href="https://wpa.qq.com/msgrd?v=3&uin={{ site.qq_number }}&site=qq&menu=yes">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-stack-1x fa-inverse" style="font-weight:bold;font-size:0.7em;">QQ</i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+  {% if site.douyin_id %}
+  <li>
+    <a target="_blank" href="https://www.douyin.com/user/{{ site.douyin_id }}">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-stack-1x fa-inverse" style="font-weight:bold;font-size:0.6em;">抖</i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
 </ul>

@@ -3,7 +3,7 @@ layout: post
 title: "自传续写：梨园与军号"
 subtitle: "一个随军子弟的滇南童年记忆"
 date: 2026-06-15
-author: "李海峰"
+author: "老墨"
 header-img: "img/post-bg-dreamer.jpg"
 tags:
   - 自传

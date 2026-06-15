@@ -79,7 +79,7 @@ bundle exec jekyll serve --baseurl "/blog"
 layout: post
 title: "我的第一篇文章"
 date: 2024-01-15
-author: "李海峰"
+author: "老墨"
 tags:
   - 技术
   - 随笔

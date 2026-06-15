@@ -6,7 +6,7 @@
 
 ## 📝 关于我
 
-- **姓名：** 李海峰（网名：老墨）
+- **网名：** 老墨
 - **职业：** 大理大学第一附属医院 档案室
 - **技术栈：** 前端开发、平面设计、区块链应用、办公自动化
 - **GitHub：** [@dalihaif](https://github.com/dalihaif)
@@ -63,7 +63,7 @@ layout: post
 title: "文章标题"
 subtitle: "副标题（可选）"
 date: 2024-01-15
-author: "李海峰"
+author: "老墨"
 header-img: "img/home-bg.jpg"
 tags:
   - 标签1

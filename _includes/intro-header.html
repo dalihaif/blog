@@ -94,7 +94,7 @@
 {% endif %}
 
 {% if include.type == 'page' %}
-<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+<header class="intro-header {% if page.hide-header-title %}no-title{% endif %}" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
   <div class="header-mask"></div>
   <div class="container">
     <div class="row">
@@ -104,7 +104,9 @@
         {% else %}
         <div class="site-heading">
         {% endif %}
+          {% unless page.hide-header-title %}
           <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+          {% endunless %}
           <span class="subheading">{{ page.description }}</span>
         </div>
       </div>

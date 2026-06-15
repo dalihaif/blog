@@ -3,7 +3,7 @@ layout: post
 title: "大附院档案卷脊封面打印管理系统"
 subtitle: "基于Web的档案标签批量打印工具开发与实践"
 date: 2026-06-15
-author: "李海峰"
+author: "老墨"
 header-img: "img/post-bg-archive.jpg"
 tags:
   - 档案管理

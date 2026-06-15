@@ -3,7 +3,7 @@ layout: post
 title: "三甲医院医疗档案智能化管理教程（2026年5月版）"
 subtitle: "从传统档案管理到智能化转型的完整实践指南"
 date: 2026-06-15
-author: "李海峰"
+author: "老墨"
 header-img: "img/post-bg-desk.jpg"
 tags:
   - 档案管理
