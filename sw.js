@@ -1,3 +1,5 @@
+---
+---
 /* ===========================================================
  * sw.js
  * ===========================================================
@@ -13,26 +15,25 @@ const CACHE_NAMESPACE = 'main-'
 
 const CACHE = CACHE_NAMESPACE + 'precache-then-runtime';
 const PRECACHE_LIST = [
-  "./",
-  "./offline.html",
-  "./js/jquery.min.js",
-  "./js/bootstrap.min.js",
-  "./js/hux-blog.min.js",
-  "./js/snackbar.js",
-  "./img/icon_wechat.png",
-  "./img/avatar-hux.jpg",
-  "./img/home-bg.jpg",
-  "./img/404-bg.jpg",
-  "./css/hux-blog.min.css",
-  "./css/bootstrap.min.css"
+  "{{ site.baseurl }}/",
+  "{{ site.baseurl }}/offline.html",
+  "{{ site.baseurl }}/js/jquery.min.js",
+  "{{ site.baseurl }}/js/bootstrap.min.js",
+  "{{ site.baseurl }}/js/hux-blog.min.js",
+  "{{ site.baseurl }}/js/snackbar.js",
+  "{{ site.baseurl }}/img/icon_wechat.png",
+  "{{ site.baseurl }}/img/avatar-mo.jpg",
+  "{{ site.baseurl }}/img/home-bg.jpg",
+  "{{ site.baseurl }}/img/404-bg.jpg",
+  "{{ site.baseurl }}/css/hux-blog.min.css",
+  "{{ site.baseurl }}/css/bootstrap.min.css"
   // "//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css",
   // "//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/fonts/fontawesome-webfont.woff2?v=4.6.3",
   // "//cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js"
 ]
 const HOSTNAME_WHITELIST = [
   self.location.hostname,
-  "huangxuan.me",
-  "yanshuo.io",
+  "dalihaif.github.io",
   "cdnjs.cloudflare.com"
 ]
 const DEPRECATED_CACHES = ['precache-v1', 'runtime', 'main-precache-v1', 'main-runtime']

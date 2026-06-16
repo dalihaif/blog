@@ -4,6 +4,9 @@ echo ========================================
 echo   老墨的博客 - 本地预览启动脚本
 echo ========================================
 echo.
+echo 正在清理旧构建缓存...
+if exist _site rd /s /q _site
+
 echo 正在检查 Ruby 环境...
 ruby --version
 if errorlevel 1 (

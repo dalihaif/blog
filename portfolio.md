@@ -83,25 +83,34 @@ header-mask: 0.3
 
 <div style="margin-top: 30px;">
 
-### 云端院史馆
+### 云端院史馆 · 数字院史展馆
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
     <h3 style="margin-top: 0;">🏛️ 云端院史馆</h3>
-    <p><strong>项目愿景：</strong>让医院历史 "活" 起来</p>
+    <p><strong>技术栈：</strong>原生 HTML/CSS/JS + AdminLTE 3 + GitHub Pages</p>
+    <p><strong>项目定位：</strong>大理大学第一附属医院数字院史展馆 —— 纯静态、CMS 驱动、零运维成本</p>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-top: 20px;">
         <div>
-            <h4>📸 历史档案数字化</h4>
-            <p style="font-size: 14px;">将纸质档案转化为数字资源，永久保存</p>
+            <h4>🧩 13 大板块</h4>
+            <p style="font-size: 14px;">历史沿革、人物风采、学科建设、医疗技术等全覆盖</p>
         </div>
         <div>
-            <h4>🖼️ 沉浸式线上展厅</h4>
-            <p style="font-size: 14px;">3D 虚拟展厅，随时随地参观</p>
+            <h4>🖥️ CMS 后台</h4>
+            <p style="font-size: 14px;">可视化编辑、localStorage 即时预览、一键导出发布</p>
         </div>
         <div>
-            <h4>🔍 智能检索系统</h4>
-            <p style="font-size: 14px;">AI 驱动的档案检索与推荐</p>
+            <h4>👷 职工名录</h4>
+            <p style="font-size: 14px;">2487 条数据，CSV 导入编码自动检测，分页浏览</p>
+        </div>
+        <div>
+            <h4>🚀 零运维</h4>
+            <p style="font-size: 14px;">GitHub Pages 托管，push 即上线，无服务器无数据库</p>
         </div>
     </div>
+    <p style="margin-top: 20px;">
+        <a href="/2026/06/16/hospital-museum-cms.html" style="color: white; text-decoration: underline; font-weight: bold;">技术架构详解 →</a> &nbsp;|&nbsp;
+        <a href="https://github.com/dalihaif/DFY" target="_blank" style="color: white; text-decoration: underline;">GitHub 仓库 →</a>
+    </p>
 </div>
 
 ### 前端开发实践
@@ -178,47 +187,36 @@ header-mask: 0.3
 ## ✍️ 生活随笔
 
 <div style="margin-top: 30px; padding: 30px; background: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%); border-radius: 10px;">
-    <h3 style="margin-top: 0; color: #d84315;">📖 自传续写：初见</h3>
+    <h3 style="margin-top: 0; color: #d84315;">📖 自传续写：梨园与军号</h3>
     <p><strong>类型：</strong>回忆录 / 生活随笔</p>
-    <p><strong>内容概要：</strong>记录我与妻子初次相遇的故事。1998年的夏天，洱海边的一次偶然邂逅，开启了我们二十多年的相伴人生。</p>
+    <p><strong>内容概要：</strong>一个随军子弟的滇南童年记忆。梨园里的嬉戏、军号声中的成长，那些刻在骨子里的滇南往事。</p>
     <blockquote style="border-left: 4px solid #d84315; padding-left: 15px; margin: 20px 0; font-style: italic; color: #666;">
         "平凡的人也可以有不平凡的人生。"
     </blockquote>
     <p><strong>文章亮点：</strong></p>
     <ul>
-        <li>真实感人的爱情故事</li>
-        <li>大理风土人情的描绘</li>
-        <li>为人父母的思考与感悟</li>
-        <li>职业成长的历程回顾</li>
+        <li>随军子弟的独特成长经历</li>
+        <li>滇南风土人情的生动描绘</li>
+        <li>梨园与军营交织的童年</li>
+        <li>时代变迁中的人生感悟</li>
         <li>对未来的期许与展望</li>
     </ul>
-    <a href="/2026/06/15/autobiography-first-meeting.html" style="color: #d84315; text-decoration: none; font-weight: bold;">阅读完整故事 →</a>
+    <a href="/2026/06/15/childhood-memories-pear-orchard-bugle.html" style="color: #d84315; text-decoration: none; font-weight: bold;">阅读完整故事 →</a>
 </div>
 
-</div>
-
----
-
-## ✍️ 生活随笔
-
-<div style="margin-top: 30px; padding: 30px; background: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%); border-radius: 10px;">
-    <h3 style="margin-top: 0; color: #d84315;">📖 自传续写：初见</h3>
-    <p><strong>类型：</strong>回忆录 / 生活随笔</p>
-    <p><strong>内容概要：</strong>记录我与妻子初次相遇的故事。1998年的夏天，洱海边的一次偶然邂逅，开启了我们二十多年的相伴人生。</p>
-    <blockquote style="border-left: 4px solid #d84315; padding-left: 15px; margin: 20px 0; font-style: italic; color: #666;">
-        "平凡的人也可以有不平凡的人生。"
+<div style="margin-top: 20px; padding: 30px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; color: white;">
+    <h3 style="margin-top: 0;">🎭 粉墨人生：从档案室到艺术院校的追梦之旅</h3>
+    <p><strong>类型：</strong>自传 / 回忆录</p>
+    <p><strong>内容概要：</strong>一个六十岁老古董勇闯表演系的大型真香现场。三十五年档案室生涯落幕，花甲之年重拾年少旧梦，报考云南艺术学院表演专业，开启四年逐梦之旅。</p>
+    <blockquote style="border-left: 4px solid rgba(255,255,255,0.5); padding-left: 15px; margin: 20px 0; font-style: italic; color: rgba(255,255,255,0.9);">
+        "人生从无暮年，心怀热爱，永远皆是少年。"
     </blockquote>
-    <p><strong>文章亮点：</strong></p>
+    <p><strong>系列连载：</strong></p>
     <ul>
-        <li>真实感人的爱情故事</li>
-        <li>大理风土人情的描绘</li>
-        <li>为人父母的思考与感悟</li>
-        <li>职业成长的历程回顾</li>
-        <li>对未来的期许与展望</li>
+        <li>📝 <a href="/2026/06/15/fen-mo-ren-sheng-part1.html" style="color: white; text-decoration: underline;">上篇：三十五年归档，半生留白</a> —— 从退休到入学的逆风翻盘</li>
+        <li>🎭 <a href="/2026/06/15/fen-mo-ren-sheng-part2.html" style="color: white; text-decoration: underline;">中篇：登台与成长</a> —— 从翻车到封神的蜕变之路</li>
+        <li>🏆 <a href="/2026/06/15/fen-mo-ren-sheng-part3.html" style="color: white; text-decoration: underline;">下篇：圆梦收官</a> —— 从师生情深到毕业圆梦</li>
     </ul>
-    <a href="/2026/06/15/autobiography-first-meeting.html" style="color: #d84315; text-decoration: none; font-weight: bold;">阅读完整故事 →</a>
-</div>
-
 </div>
 
 ---

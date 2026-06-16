@@ -1,10 +1,14 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "老墨的博客",
+  "short_name": "老墨博客",
+  "description": "一个在医院档案室里写代码、做设计、玩区块链的 70 后技术爱好者。技术改变工作，设计美化生活。",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
+    "type": "image/png"
+  }, {
+    "src": "icons/192.png",
+    "sizes": "192x192",
     "type": "image/png"
   }, {
     "src": "icons/512.png",
@@ -13,7 +17,7 @@
   }],
   "background_color": "#fff",
   "theme_color": "#000",
-  "start_url": "/",
+  "start_url": "https://dalihaif.github.io/blog/",
   "display": "standalone",
   "orientation": "portrait"
 }

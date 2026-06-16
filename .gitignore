@@ -11,3 +11,7 @@ node_modules
 .jekyll-cache
 */.DS_Store
 */*/.DS_Store
+.workbuddy
+nul
+_temp_*
+_split_*

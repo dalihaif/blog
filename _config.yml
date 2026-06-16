@@ -33,6 +33,7 @@ exclude:
     "node_modules",
     "Gruntfile.js",
     "package.json",
+    "package-lock.json",
     "README.md",
     "README.zh.md",
     "DEPLOY.md",
@@ -42,6 +43,16 @@ exclude:
     "Gemfile",
     "Gemfile.lock",
     "netlify.toml",
+    "nul",
+    "_temp_*",
+    "_split_*",
+    "CONTENT_UPDATE_SUMMARY.md",
+    "INSTALL_RUBY.md",
+    "LICENSE",
+    "TODO.md",
+    "TROUBLESHOOTING.md",
+    "Rakefile",
+    "admin",
   ]
 include: ["_redirects"]
 anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
@@ -85,7 +96,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "在平凡的岗位上，做不平凡的事 <br> 医院档案室的技术爱好者"
-sidebar-avatar: https://github.com/dalihaif.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://dalihaif.github.io/blog/img/avatar-mo.jpg
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
