@@ -86,9 +86,9 @@ kramdown:
 #   2. 已安装 Giscus App：https://github.com/apps/giscus → Install → 选择 dalihaif/blog
 giscus_enable: true
 giscus_repo: "dalihaif/blog"
-giscus_repo_id:  # 从 https://giscus.app 获取，形如 R_kgDO...
+giscus_repo_id: R_kgDOS6j9PA  # 从 https://giscus.app 获取
 giscus_category: "Announcements"
-giscus_category_id:  # 从 https://giscus.app 获取，形如 DIC_
+giscus_category_id: DIC_kwDOS6j9PM4C_RBb  # 从 https://giscus.app 获取
 giscus_mapping: pathname  # 评论关联方式：pathname(推荐) / url / title
 giscus_theme: preferred_color_scheme  # 主题：preferred_color_scheme(跟随系统) / light / dark / dark_dimmed
 giscus_lang: zh-CN  # 语言
