@@ -48,12 +48,12 @@ layout: default
                 </ul>
                 <hr style="visibility: hidden;">
 
-                {% if site.disqus_username %}
-                <!-- disqus 评论框 start -->
+                {% if site.valine_enable %}
+                <!-- Valine 评论框 start -->
                 <div class="comment">
-                    <div id="disqus_thread" class="disqus-thread"></div>
+                    <div id="vcomments"></div>
                 </div>
-                <!-- disqus 评论框 end -->
+                <!-- Valine 评论框 end -->
                 {% endif %}
 
                 {% if site.netease_comment %}
@@ -118,21 +118,31 @@ layout: default
 {% endif %}
 
 
-{% if site.disqus_username %}
-<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = "{{site.disqus_username}}";
-    var disqus_identifier = "{{page.id}}";
-    var disqus_url = "{{site.url}}{{page.url}}";
-
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
+{% if site.valine_enable and site.valine_appid %}
+<!-- Valine 评论系统 start -->
+<script src="//unpkg.com/valine@latest/dist/Valine.min.js"></script>
+<script>
+    new Valine({
+        el: '#vcomments',
+        appId: '{{ site.valine_appid }}',
+        appKey: '{{ site.valine_appkey }}',
+        placeholder: '{{ site.valine_placeholder }}',
+        avatar: '{{ site.valine_avatar }}',
+        pageSize: {{ site.valine_pageSize | default: 10 }},
+        path: window.location.pathname,
+        lang: 'zh-CN'
+    });
 </script>
-<!-- disqus 公共JS代码 end -->
+<style>
+    /* Valine 样式适配 */
+    .comment { margin-top: 20px; }
+    #vcomments .valine .vwrap { border-radius: 8px; }
+    #vcomments .valine .veditor { min-height: 120px; }
+    #vcomments .valine .vbtn { border-radius: 6px; }
+    #vcomments .valine .vinfo input { border-radius: 6px; }
+    #vcomments .valine .vlist .vcard .vhead .vname { color: #1a56a0; }
+</style>
+<!-- Valine 评论系统 end -->
 {% endif %}
 
 

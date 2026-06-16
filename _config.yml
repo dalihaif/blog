@@ -79,8 +79,15 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-# Disqus settings
-disqus_username: hux
+# Valine 评论系统设置（替代 Disqus，国内加载快）
+# 注册 LeanCloud 国际版 https://console.leancloud.app/ 获取 AppID 和 AppKey
+# 步骤：注册 → 创建应用（开发版免费） → 设置 → 应用凭证 → 复制 AppID 和 AppKey
+valine_enable: true
+valine_appid:  # 填入你的 LeanCloud AppID
+valine_appkey:  # 填入你的 LeanCloud AppKey
+valine_placeholder: 说点什么吧...  # 评论框占位文字
+valine_avatar: mp  # 头像风格：mp(神秘人)/robohash/identicon/wavatar/retro
+valine_pageSize: 10  # 每页评论数
 
 # Netease settings
 netease_comment: false

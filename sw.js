@@ -34,7 +34,9 @@ const PRECACHE_LIST = [
 const HOSTNAME_WHITELIST = [
   self.location.hostname,
   "dalihaif.github.io",
-  "cdnjs.cloudflare.com"
+  "cdnjs.cloudflare.com",
+  "unpkg.com",
+  "cdn.jsdelivr.net"
 ]
 const DEPRECATED_CACHES = ['precache-v1', 'runtime', 'main-precache-v1', 'main-runtime']
 
