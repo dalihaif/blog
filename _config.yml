@@ -79,15 +79,19 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-# Valine 评论系统设置（替代 Disqus，国内加载快）
-# 注册 LeanCloud 国际版 https://console.leancloud.app/ 获取 AppID 和 AppKey
-# 步骤：注册 → 创建应用（开发版免费） → 设置 → 应用凭证 → 复制 AppID 和 AppKey
-valine_enable: true
-valine_appid:  # 填入你的 LeanCloud AppID
-valine_appkey:  # 填入你的 LeanCloud AppKey
-valine_placeholder: 说点什么吧...  # 评论框占位文字
-valine_avatar: mp  # 头像风格：mp(神秘人)/robohash/identicon/wavatar/retro
-valine_pageSize: 10  # 每页评论数
+# Giscus 评论系统设置（基于 GitHub Discussions，免费无后端）
+# 获取配置值：打开 https://giscus.app → 输入仓库名 dalihaif/blog → 复制生成的 repo_id 和 category_id
+# 前提条件：
+#   1. 仓库已开启 Discussions：仓库 Settings → General → Features → 勾选 Discussions
+#   2. 已安装 Giscus App：https://github.com/apps/giscus → Install → 选择 dalihaif/blog
+giscus_enable: true
+giscus_repo: "dalihaif/blog"
+giscus_repo_id:  # 从 https://giscus.app 获取，形如 R_kgDO...
+giscus_category: "Announcements"
+giscus_category_id:  # 从 https://giscus.app 获取，形如 DIC_
+giscus_mapping: pathname  # 评论关联方式：pathname(推荐) / url / title
+giscus_theme: preferred_color_scheme  # 主题：preferred_color_scheme(跟随系统) / light / dark / dark_dimmed
+giscus_lang: zh-CN  # 语言
 
 # Netease settings
 netease_comment: false
