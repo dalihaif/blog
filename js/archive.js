@@ -1,23 +1,19 @@
 /*
 Credits: this script is shamelessly borrowed from
 https://github.com/kitian616/jekyll-TeXt-theme
+Modified: 默认显示文章列表，JS 加载后接管筛选功能
 */
 (function() {
   function queryString() {
-    // This function is anonymous, is executed immediately and
-    // the return value is assigned to QueryString!
     var i = 0, queryObj = {}, pair;
     var queryStr = window.location.search.substring(1);
     var queryArr = queryStr.split('&');
     for (i = 0; i < queryArr.length; i++) {
       pair = queryArr[i].split('=');
-      // If first entry with this name
       if (typeof queryObj[pair[0]] === 'undefined') {
         queryObj[pair[0]] = pair[1];
-        // If second entry with this name
       } else if (typeof queryObj[pair[0]] === 'string') {
         queryObj[pair[0]] = [queryObj[pair[0]], pair[1]];
-        // If third or later entry with this name
       } else {
         queryObj[pair[0]].push(pair[1]);
       }
@@ -26,7 +22,7 @@ https://github.com/kitian616/jekyll-TeXt-theme
   }
 
   var setUrlQuery = (function() {
-    var baseUrl =  window.location.href.split('?')[0];
+    var baseUrl = window.location.href.split('?')[0];
     return function(query) {
       if (typeof query === 'string') {
         window.history.replaceState(null, '', baseUrl + query);
@@ -42,7 +38,7 @@ https://github.com/kitian616/jekyll-TeXt-theme
     var $tagShowAll = $tags.find('.tag-button--all');
     var $result = $('.js-result');
     var $sections = $result.find('section');
-    var sectionArticles = []
+    var sectionArticles = [];
     var $lastFocusButton = null;
     var sectionTopArticleIndex = [];
     var hasInit = false;
@@ -60,7 +56,7 @@ https://github.com/kitian616/jekyll-TeXt-theme
       sectionTopArticleIndex.push(index);
     }
 
-    function searchButtonsByTag(_tag/*raw tag*/) {
+    function searchButtonsByTag(_tag) {
       if (!_tag) {
         return $tagShowAll;
       }
@@ -79,7 +75,7 @@ https://github.com/kitian616/jekyll-TeXt-theme
       }
     }
 
-    function tagSelect (tag/*raw tag*/, target) {
+    function tagSelect(tag, target) {
       var result = {}, $articles;
       var i, j, k, _tag;
 
@@ -113,8 +109,7 @@ https://github.com/kitian616/jekyll-TeXt-theme
         }
       }
 
-      hasInit || ($result.removeClass('d-none'), hasInit = true);
-
+      hasInit = true;
 
       if (target) {
         buttonFocus(target);
@@ -129,15 +124,14 @@ https://github.com/kitian616/jekyll-TeXt-theme
       }
     }
 
-    var query = queryString(), 
+    var query = queryString(),
         _tag = query.tag;
 
-    init(); 
+    init();
     tagSelect(_tag);
 
-    $tags.on('click', 'a', function() {   /* only change */
+    $tags.on('click', 'a', function() {
       tagSelect($(this).data('encode'), $(this));
     });
-
   });
 })();

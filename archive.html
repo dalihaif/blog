@@ -4,7 +4,6 @@ layout: default
 description: "「我干了什么 究竟拿了时间换了什么」"
 header-img: "img/bg-little-universe.jpg"
 ---
-
 <!--
 Credits: this page shamelessly borrowed a lot from:
 https://github.com/kitian616/jekyll-TeXt-theme
@@ -16,6 +15,23 @@ https://github.com/kitian616/jekyll-TeXt-theme
 <div class="container">
 	<div class="row">
 		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+			<!-- Stats Bar -->
+			<div class="archive-stats">
+				<div class="stat-item">
+					<span class="stat-number">{{ site.posts.size }}</span>
+					<span class="stat-label">篇文章</span>
+				</div>
+				<div class="stat-item">
+					<span class="stat-number">{{ site.tags.size }}</span>
+					<span class="stat-label">个标签</span>
+				</div>
+				<div class="stat-item">
+					<span class="stat-number">{{ site.categories.size }}</span>
+					<span class="stat-label">个分类</span>
+				</div>
+			</div>
+
 			<!-- Tags (as filter) -->
 			<div id='tag_cloud' class="tags tags-sup js-tags">
 				<a class="tag-button--all" data-encode="">
@@ -36,12 +52,11 @@ https://github.com/kitian616/jekyll-TeXt-theme
 				{{ tags | split:'__SEPERATOR__' | sort }}
 			</div>
 
-			<!-- Article List -->
-			<div class="mini-post-list js-result d-none">
+			<!-- Article List (默认显示，JS加载后由 archive.js 接管筛选) -->
+			<div class="mini-post-list js-result">
 				{%- assign _sorted_list = site.posts -%}
 				{%- assign _sorted_list = _sorted_list | sort: 'date' -%}
 				{%- assign _sorted_list = _sorted_list | reverse -%}
-
 
 				{%- for _article in _sorted_list -%}
 				{%- assign _tags = '' -%}
@@ -59,24 +74,34 @@ https://github.com/kitian616/jekyll-TeXt-theme
 				{%- if _currentdate != _date -%}
 				{%- unless forloop.first -%}</section>{%- endunless -%}
 				<section>
-					<span class="fa listing-seperator">
-						<span class="tag-text">{{ _currentdate }}</span>
-					</span>
+					<div class="archive-year-header">
+						<span class="year-label">{{ _currentdate }}</span>
+						<div class="year-line"></div>
+					</div>
 					{%- assign _date = _currentdate -%}
 					{%- endif -%}
 
 					<div class="post-preview item" data-tags="{{ _tags }}">
 						<a href="{{ _article.url | prepend: site.baseurl }}">
-							<h2 class="post-title">
-								{{ _article.title }}
-							</h2>
-							{% if _article.subtitle %}
-							<h3 class="post-subtitle">
-								{{ _article.subtitle }}
-							</h3>
-							{% endif %}
+							<div class="post-preview-inner">
+								<div class="post-date">{{ _article.date | date: '%m/%d' }}</div>
+								<div class="post-content">
+									<h2 class="post-title">
+										{{ _article.title }}
+									</h2>
+									{% if _article.subtitle %}
+									<h3 class="post-subtitle">
+										{{ _article.subtitle }}
+									</h3>
+									{% endif %}
+									<div class="post-tags-inline">
+										{%- for _tag in _article.tags -%}
+										<span class="tag-chip">{{ _tag }}</span>
+										{%- endfor -%}
+									</div>
+								</div>
+							</div>
 						</a>
-						<hr>
 					</div>
 					{%- if forloop.last -%}
 				</section>{%- endif -%}
@@ -85,3 +110,185 @@ https://github.com/kitian616/jekyll-TeXt-theme
 		</div>
 	</div>
 </div>
+
+<!-- Archive page custom styles -->
+<style>
+/* Stats Bar */
+.archive-stats {
+	display: flex;
+	justify-content: center;
+	gap: 40px;
+	padding: 25px 0 15px;
+	border-bottom: 1px solid #eee;
+	margin-bottom: 20px;
+}
+.stat-item {
+	text-align: center;
+}
+.stat-number {
+	display: block;
+	font-size: 28px;
+	font-weight: 700;
+	color: #0085a1;
+	line-height: 1.2;
+}
+.stat-label {
+	font-size: 13px;
+	color: #999;
+}
+
+/* Year header with line */
+.archive-year-header {
+	display: flex;
+	align-items: center;
+	margin: 30px 0 15px;
+}
+.year-label {
+	font-size: 22px;
+	font-weight: 700;
+	color: #0085a1;
+	flex-shrink: 0;
+	padding-right: 12px;
+}
+.year-line {
+	flex: 1;
+	height: 1px;
+	background: linear-gradient(to right, #0085a1, transparent);
+}
+
+/* Post preview with timeline */
+.post-preview-inner {
+	display: flex;
+	align-items: flex-start;
+	gap: 16px;
+	padding: 14px 0;
+}
+.post-date {
+	flex-shrink: 0;
+	width: 44px;
+	font-size: 13px;
+	color: #999;
+	font-weight: 500;
+	padding-top: 3px;
+	text-align: center;
+	position: relative;
+}
+.post-date::before {
+	content: '';
+	position: absolute;
+	left: -14px;
+	top: 8px;
+	width: 8px;
+	height: 8px;
+	border-radius: 50%;
+	background: #0085a1;
+	opacity: 0.4;
+}
+.post-preview.item .post-date::before {
+	/* timeline dot */
+}
+.post-content {
+	flex: 1;
+	min-width: 0;
+}
+.post-content .post-title {
+	font-size: 16px;
+	font-weight: 500;
+	margin-top: 0;
+	margin-bottom: 4px;
+	color: #333;
+	line-height: 1.4;
+}
+.post-content .post-subtitle {
+	font-size: 13px;
+	color: #999;
+	margin-top: 2px;
+	margin-bottom: 6px;
+	font-weight: 400;
+}
+.post-preview a:hover .post-title {
+	color: #0085a1;
+}
+
+/* Inline tag chips */
+.post-tags-inline {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 4px;
+}
+.tag-chip {
+	font-size: 11px;
+	padding: 1px 6px;
+	border-radius: 3px;
+	background: #f0f0f0;
+	color: #666;
+	line-height: 1.6;
+}
+
+/* Override default separator - hide old style */
+.mini-post-list .listing-seperator,
+.mini-post-list .fa.listing-seperator {
+	display: none;
+}
+
+/* Override default hr in post-preview */
+.mini-post-list .post-preview hr {
+	display: none;
+}
+
+/* Timeline vertical line */
+.mini-post-list section {
+	position: relative;
+	padding-left: 36px;
+	border-left: 2px solid #e8e8e8;
+	margin-left: 22px;
+}
+.mini-post-list section .post-preview .post-date::before {
+	left: -22px;
+}
+
+/* Override old margin-left for desktop */
+@media only screen and (min-width: 768px) {
+	.mini-post-list .post-preview {
+		margin-left: 0;
+	}
+	.mini-post-list .post-preview > a > .post-title {
+		font-size: 17px;
+	}
+	.mini-post-list .post-preview > a > .post-subtitle {
+		font-size: 13px;
+	}
+}
+
+/* Mobile adjustments */
+@media only screen and (max-width: 767px) {
+	.archive-stats {
+		gap: 24px;
+	}
+	.stat-number {
+		font-size: 22px;
+	}
+	.mini-post-list section {
+		padding-left: 28px;
+		margin-left: 16px;
+	}
+	.post-date::before {
+		left: -16px;
+	}
+	.mini-post-list section .post-preview .post-date::before {
+		left: -18px;
+	}
+}
+</style>
+
+<!-- noscript fallback: 如果 JS 完全禁用，确保文章列表可见 -->
+<noscript>
+	<style>
+		.mini-post-list.js-result {
+			display: block !important;
+		}
+		.mini-post-list.js-result .d-none {
+			display: block !important;
+		}
+	</style>
+</noscript>
