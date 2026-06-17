@@ -60,6 +60,41 @@ header-mask: 0.3
     <a href="/2026/06/15/archive-label-printer.html" style="color: #FF5722; text-decoration: none;">查看详细介绍 →</a>
 </div>
 
+### 医院印章管理系统
+
+<div style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; background: white; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; color: #E91E63;">🔏 医院印章管理系统</h3>
+    <p><strong>技术栈：</strong>Python Flask + SQLite + 纯 HTML/CSS/JS</p>
+    <p><strong>功能：</strong></p>
+    <ul>
+        <li>印章档案目录管理（分类、编号、照片存档）</li>
+        <li>刻制审批全流程（申请→审核→登记→启用）</li>
+        <li>使用登记（扫码盖章/借出登记/自动归还）</li>
+        <li>报废销毁与归档管理</li>
+        <li>标签批量打印、Excel 导入导出</li>
+        <li>操作日志与权限管理</li>
+    </ul>
+    <p><strong>亮点：</strong>9张数据库表管住印章一生，15分钟复制到新单位</p>
+    <a href="/2026/06/16/seal-management-system.html" style="color: #E91E63; text-decoration: none;">查看详细介绍 →</a>
+</div>
+
+### 医院通讯录 PWA
+
+<div style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; background: white; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; color: #009688;">📱 医院通讯录 PWA</h3>
+    <p><strong>技术栈：</strong>Vanilla JS + JSON + SheetJS + PWA</p>
+    <p><strong>功能：</strong></p>
+    <ul>
+        <li>2648 条通讯录，拼音首字母秒搜</li>
+        <li>一键拨号（区号自动补全）</li>
+        <li>添加到手机桌面，像原生 App 一样用</li>
+        <li>Excel 导入导出，数据一键更新</li>
+        <li>离线可用，无需联网也能查号码</li>
+    </ul>
+    <p><strong>效果：</strong>查号码从1-2分钟→1秒，全院手机直达</p>
+    <a href="/2026/06/16/dfy-phonebook-pwa.html" style="color: #009688; text-decoration: none;">查看详细介绍 →</a>
+</div>
+
 ### 办公自动化工具集
 
 <div style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; background: white; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
@@ -180,6 +215,49 @@ header-mask: 0.3
     <a href="/2026/06/15/ai-prompts-collection.html" style="color: #2196F3; text-decoration: none;">查看完整合集 →</a>
 </div>
 
+### 零基础搭博客教程
+
+<div style="background: #f5f5f5; padding: 20px; border-radius: 8px; border-left: 4px solid #FF9800;">
+    <h3 style="margin-top: 0; color: #FF9800;">🏠 零基础搭博客：从注册账号到文章上线全流程</h3>
+    <p><strong>内容概要：</strong>手把手教你用 Jekyll + GitHub Pages 搭建免费个人博客</p>
+    <ul>
+        <li>为什么自建博客（对比公众号/知乎/CSDN）</li>
+        <li>三样东西组合：Jekyll + 主题 + GitHub Pages</li>
+        <li>八步搭建全流程（注册→Fork→装Ruby→改配置→换图片→预览→写文章→发布）</li>
+        <li>三大踩坑（baseurl 404 / nul 冲突 / git push 403 SSH方案）</li>
+        <li>PWA 配置（manifest / 图标生成 / Service Worker）</li>
+    </ul>
+    <a href="/2026/06/16/build-your-blog.html" style="color: #FF9800; text-decoration: none;">阅读全文 →</a>
+</div>
+
+### Git 小白入门教程
+
+<div style="background: #f5f5f5; padding: 20px; border-radius: 8px; border-left: 4px solid #607D8B;">
+    <h3 style="margin-top: 0; color: #607D8B;">📦 Git到底是个啥？给电脑小白讲的版本管理入门课</h3>
+    <p><strong>内容概要：</strong>从「最终版」「打死不改版」到优雅地管理一切</p>
+    <ul>
+        <li>三个没有 Git vs 有 Git 的真实场景</li>
+        <li>四个核心概念人话翻译（仓库=魔法文件夹/提交=存档/分支=平行宇宙/远程=云备份）</li>
+        <li>五个命令走天下（init/add/commit/push/pull）</li>
+        <li>急救操作 & 速查表</li>
+    </ul>
+    <a href="/2026/06/16/git-for-beginners.html" style="color: #607D8B; text-decoration: none;">阅读全文 →</a>
+</div>
+
+### 电脑越用越卡修复指南
+
+<div style="background: #f5f5f5; padding: 20px; border-radius: 8px; border-left: 4px solid #F44336;">
+    <h3 style="margin-top: 0; color: #F44336;">⚡ 电脑越用越卡？零基础教你恢复如初</h3>
+    <p><strong>内容概要：</strong>备份数据→清理垃圾→重置系统，三步让老电脑重新起飞</p>
+    <ul>
+        <li>备份数据（文档/照片/微信记录/浏览器密码/软件清单）</li>
+        <li>清理垃圾（磁盘清理/卸载软件/关自启动/存储感知）</li>
+        <li>重置系统（重置前确认/操作步骤/装回软件/恢复备份）</li>
+        <li>硬件升级（换 SSD / 加内存 / 清灰换硅脂）</li>
+    </ul>
+    <a href="/2026/06/17/pc-slow-fix-guide.html" style="color: #F44336; text-decoration: none;">阅读全文 →</a>
+</div>
+
 </div>
 
 ---
@@ -229,6 +307,10 @@ header-mask: 0.3
 
 <ul style="list-style: none; padding: 0;">
     <li style="margin-bottom: 15px;">
+        <strong>💊 药学审方内网系统</strong>
+        <p style="margin: 5px 0 0 0; color: #666; font-size: 14px;">依据《医疗机构处方审核规范》（2018年14号文），合规化审方流程</p>
+    </li>
+    <li style="margin-bottom: 15px;">
         <strong>✅ 档案区块链 AI 管理平台</strong>
         <p style="margin: 5px 0 0 0; color: #666; font-size: 14px;">整合区块链存证与 AI 智能编目，打造下一代档案管理解决方案</p>
     </li>
@@ -255,5 +337,5 @@ header-mask: 0.3
 - **电话:** 13988531240
 
 <p style="text-align: center; color: #999; margin-top: 40px;">
-© 2024 老墨的博客 | 用代码和画笔记录生活
+© 2026 老墨的博客 | 用代码和画笔记录生活
 </p>
