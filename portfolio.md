@@ -24,6 +24,10 @@ header-mask: 0.3
     </ul>
     <p><strong>应用场景：</strong>医院档案数字化管理、电子病历存证</p>
     <a href="https://github.com/dalihaif" target="_blank" style="color: #2196F3; text-decoration: none;">查看代码 →</a>
+    <div style="margin-top: 15px; display: grid; grid-template-columns: 1fr; gap: 10px;">
+        <img src="/blog/img/in-post/portfolio-screenshots/archive-home.png" alt="档案智能归档系统 - 扫描配置" style="width: 100%; border-radius: 6px; border: 1px solid #eee;">
+        <img src="/blog/img/in-post/portfolio-screenshots/archive-scroll.png" alt="档案智能归档系统 - 配置详情" style="width: 100%; border-radius: 6px; border: 1px solid #eee;">
+    </div>
 </div>
 
 ### VI 系统设计工具
@@ -39,6 +43,41 @@ header-mask: 0.3
         <li>品牌视觉规范文档</li>
     </ul>
     <p><strong>设计理念：</strong>历史与现代的融合，专业与温度的平衡</p>
+    <p style="margin-top: 15px; color: #666; font-size: 14px;"><strong>文创产品展示：</strong></p>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; margin-top: 10px;">
+        <div style="text-align: center;">
+            <img src="/blog/img/in-post/portfolio-screenshots/vi-design/vi-001.jpg" alt="青花瓷马克杯" style="width: 100%; border-radius: 6px; border: 1px solid #eee;">
+            <p style="font-size: 12px; color: #999; margin: 5px 0;">青花瓷马克杯</p>
+        </div>
+        <div style="text-align: center;">
+            <img src="/blog/img/in-post/portfolio-screenshots/vi-design/vi-045.jpg" alt="毛毡刺绣笔记本" style="width: 100%; border-radius: 6px; border: 1px solid #eee;">
+            <p style="font-size: 12px; color: #999; margin: 5px 0;">毛毡刺绣笔记本</p>
+        </div>
+        <div style="text-align: center;">
+            <img src="/blog/img/in-post/portfolio-screenshots/vi-design/vi-060.jpg" alt="木柄团扇" style="width: 100%; border-radius: 6px; border: 1px solid #eee;">
+            <p style="font-size: 12px; color: #999; margin: 5px 0;">木柄团扇</p>
+        </div>
+        <div style="text-align: center;">
+            <img src="/blog/img/in-post/portfolio-screenshots/vi-design/vi-070.jpg" alt="蓝白手提袋" style="width: 100%; border-radius: 6px; border: 1px solid #eee;">
+            <p style="font-size: 12px; color: #999; margin: 5px 0;">蓝白手提袋</p>
+        </div>
+        <div style="text-align: center;">
+            <img src="/blog/img/in-post/portfolio-screenshots/vi-design/vi-095.jpg" alt="云南建筑风景海报" style="width: 100%; border-radius: 6px; border: 1px solid #eee;">
+            <p style="font-size: 12px; color: #999; margin: 5px 0;">云南建筑风景海报</p>
+        </div>
+        <div style="text-align: center;">
+            <img src="/blog/img/in-post/portfolio-screenshots/vi-design/vi-110.jpg" alt="名片设计" style="width: 100%; border-radius: 6px; border: 1px solid #eee;">
+            <p style="font-size: 12px; color: #999; margin: 5px 0;">名片设计（正反面）</p>
+        </div>
+        <div style="text-align: center;">
+            <img src="/blog/img/in-post/portfolio-screenshots/vi-design/vi-112.jpg" alt="青花瓷徽章" style="width: 100%; border-radius: 6px; border: 1px solid #eee;">
+            <p style="font-size: 12px; color: #999; margin: 5px 0;">青花瓷徽章</p>
+        </div>
+        <div style="text-align: center;">
+            <img src="/blog/img/in-post/portfolio-screenshots/vi-design/vi-125.jpg" alt="金边书签" style="width: 100%; border-radius: 6px; border: 1px solid #eee;">
+            <p style="font-size: 12px; color: #999; margin: 5px 0;">金边书签</p>
+        </div>
+    </div>
 </div>
 
 ### 档案卷脊封面打印管理系统
@@ -76,6 +115,10 @@ header-mask: 0.3
     </ul>
     <p><strong>亮点：</strong>9张数据库表管住印章一生，15分钟复制到新单位</p>
     <a href="/2026/06/16/seal-management-system.html" style="color: #E91E63; text-decoration: none;">查看详细介绍 →</a>
+    <div style="margin-top: 15px; display: grid; grid-template-columns: 1fr; gap: 10px;">
+        <img src="/blog/img/in-post/portfolio-screenshots/seal-home.png" alt="印章管理系统 - 仪表盘" style="width: 100%; border-radius: 6px; border: 1px solid #eee;">
+        <img src="/blog/img/in-post/portfolio-screenshots/seal-scroll.png" alt="印章管理系统 - 印章列表" style="width: 100%; border-radius: 6px; border: 1px solid #eee;">
+    </div>
 </div>
 
 ### 医院通讯录 PWA
@@ -93,6 +136,10 @@ header-mask: 0.3
     </ul>
     <p><strong>效果：</strong>查号码从1-2分钟→1秒，全院手机直达</p>
     <a href="/2026/06/16/dfy-phonebook-pwa.html" style="color: #009688; text-decoration: none;">查看详细介绍 →</a>
+    <div style="margin-top: 15px; display: grid; grid-template-columns: 2fr 1fr; gap: 10px; align-items: start;">
+        <img src="/blog/img/in-post/portfolio-screenshots/phonebook-desktop.png" alt="通讯录PWA - 桌面端" style="width: 100%; border-radius: 6px; border: 1px solid #eee;">
+        <img src="/blog/img/in-post/portfolio-screenshots/phonebook-mobile.png" alt="通讯录PWA - 手机端" style="width: 100%; border-radius: 6px; border: 1px solid #eee;">
+    </div>
 </div>
 
 ### 办公自动化工具集
@@ -146,6 +193,10 @@ header-mask: 0.3
         <a href="/2026/06/16/hospital-museum-cms.html" style="color: white; text-decoration: underline; font-weight: bold;">技术架构详解 →</a> &nbsp;|&nbsp;
         <a href="https://github.com/dalihaif/DFY" target="_blank" style="color: white; text-decoration: underline;">GitHub 仓库 →</a>
     </p>
+    <div style="margin-top: 15px; display: grid; grid-template-columns: 1fr; gap: 10px;">
+        <img src="/blog/img/in-post/portfolio-screenshots/museum-home.png" alt="云端院史馆 - 首页" style="width: 100%; border-radius: 6px; border: 2px solid rgba(255,255,255,0.3);">
+        <img src="/blog/img/in-post/portfolio-screenshots/museum-scroll.png" alt="云端院史馆 - 内容板块" style="width: 100%; border-radius: 6px; border: 2px solid rgba(255,255,255,0.3);">
+    </div>
 </div>
 
 ### 前端开发实践
@@ -159,6 +210,9 @@ header-mask: 0.3
         <li>PWA 渐进式 Web 应用</li>
         <li>个人博客系统搭建</li>
     </ul>
+    <div style="margin-top: 10px;">
+        <img src="/blog/img/in-post/portfolio-screenshots/blog-home.png" alt="个人博客首页" style="width: 100%; border-radius: 6px; border: 1px solid #ddd;">
+    </div>
 </div>
 
 </div>
