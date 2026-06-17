@@ -258,6 +258,22 @@ header-mask: 0.3
     <a href="/2026/06/17/pc-slow-fix-guide.html" style="color: #F44336; text-decoration: none;">阅读全文 →</a>
 </div>
 
+### Docker 集装箱入门课
+
+<div style="background: #f5f5f5; padding: 20px; border-radius: 8px; border-left: 4px solid #00BCD4;">
+    <h3 style="margin-top: 0; color: #00BCD4;">🐳 Docker到底是啥？给电脑小白讲的集装箱入门课</h3>
+    <p><strong>内容概要：</strong>从软件装不上、环境配不对，到一键部署再也不折腾</p>
+    <ul>
+        <li>Docker 三大概念人话翻译（镜像=安装包/容器=运行中的软件/仓库=下载站）</li>
+        <li>安装 Docker（Windows/Mac/Linux 全覆盖）</li>
+        <li>常用命令速查（小白够用版，6 组命令走天下）</li>
+        <li>搭配工具（Portainer 遥控器/Compose 火车/Watchtower 自动更新/NPM 反代）</li>
+        <li>实战案例（私有云盘/博客系统/医院全家桶）</li>
+        <li>日常维护 & 常见踩坑 & 进阶路线</li>
+    </ul>
+    <a href="/2026/06/17/docker-for-beginners.html" style="color: #00BCD4; text-decoration: none;">阅读全文 →</a>
+</div>
+
 </div>
 
 ---
