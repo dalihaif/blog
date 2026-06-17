@@ -1,0 +1,205 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0"
+  xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:rss="http://purl.org/rss/1.0/"
+  exclude-result-prefixes="atom rss">
+
+<xsl:output method="html" encoding="UTF-8" indent="yes"/>
+
+<xsl:template match="/">
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title><xsl:value-of select="/rss/channel/title"/> - RSS 订阅源</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans SC", sans-serif;
+      background: #f5f5f5;
+      color: #404040;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+    .header {
+      text-align: center;
+      margin-bottom: 40px;
+      padding-bottom: 30px;
+      border-bottom: 2px solid #e8e8e8;
+    }
+    .header h1 {
+      font-size: 28px;
+      color: #0085a1;
+      margin-bottom: 8px;
+    }
+    .header .subtitle {
+      color: #888;
+      font-size: 15px;
+    }
+    .rss-notice {
+      background: #fff;
+      border: 1px solid #e0e0e0;
+      border-radius: 8px;
+      padding: 24px;
+      margin-bottom: 30px;
+    }
+    .rss-notice h2 {
+      font-size: 18px;
+      color: #0085a1;
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .rss-notice h2::before {
+      content: "📡";
+      font-size: 20px;
+    }
+    .rss-notice p {
+      font-size: 14px;
+      color: #666;
+      margin-bottom: 10px;
+    }
+    .rss-notice .feed-url {
+      background: #f0f0f0;
+      border-radius: 4px;
+      padding: 10px 14px;
+      font-family: "SF Mono", "Fira Code", Consolas, monospace;
+      font-size: 13px;
+      color: #0085a1;
+      word-break: break-all;
+      margin: 12px 0;
+      border: 1px solid #ddd;
+    }
+    .rss-notice .steps {
+      list-style: none;
+      padding: 0;
+      margin-top: 14px;
+    }
+    .rss-notice .steps li {
+      font-size: 14px;
+      color: #666;
+      padding: 4px 0;
+      padding-left: 24px;
+      position: relative;
+    }
+    .rss-notice .steps li::before {
+      content: attr(data-step);
+      position: absolute;
+      left: 0;
+      color: #0085a1;
+      font-weight: bold;
+    }
+    .post-list {
+      list-style: none;
+      padding: 0;
+    }
+    .post-item {
+      background: #fff;
+      border: 1px solid #e0e0e0;
+      border-radius: 8px;
+      padding: 20px 24px;
+      margin-bottom: 16px;
+      transition: box-shadow 0.2s;
+    }
+    .post-item:hover {
+      box-shadow: 0 2px 12px rgba(0,133,161,0.1);
+    }
+    .post-item .post-title {
+      font-size: 17px;
+      margin-bottom: 6px;
+    }
+    .post-item .post-title a {
+      color: #333;
+      text-decoration: none;
+    }
+    .post-item .post-title a:hover {
+      color: #0085a1;
+    }
+    .post-item .post-date {
+      font-size: 13px;
+      color: #999;
+      margin-bottom: 8px;
+    }
+    .post-item .post-tags {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+    .post-item .tag {
+      background: #e8f4f7;
+      color: #0085a1;
+      font-size: 12px;
+      padding: 2px 8px;
+      border-radius: 3px;
+    }
+    .footer {
+      text-align: center;
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid #e8e8e8;
+      font-size: 13px;
+      color: #aaa;
+    }
+    .footer a {
+      color: #0085a1;
+      text-decoration: none;
+    }
+    .footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1><xsl:value-of select="/rss/channel/title"/></h1>
+      <div class="subtitle"><xsl:value-of select="/rss/channel/description"/></div>
+    </div>
+
+    <div class="rss-notice">
+      <h2>这是 RSS 订阅源</h2>
+      <p>此页面供 RSS 阅读器使用。你可以将下面的地址复制到你的 RSS 阅读器中，即可自动接收博客更新。</p>
+      <div class="feed-url"><xsl:value-of select="/rss/channel/atom:link/@href"/></div>
+      <p><strong>什么是 RSS？</strong> RSS 是一种信息订阅方式，就像"订阅报纸"一样——博客有新文章时，阅读器会自动提醒你，不用自己来刷网页。</p>
+      <ul class="steps">
+        <li data-step="1. ">下载一个 RSS 阅读器（推荐：手机端 FeedMe / Inoreader；电脑端 Fluent Reader / Inoreader 网页版）</li>
+        <li data-step="2. ">复制上面的订阅地址</li>
+        <li data-step="3. ">在阅读器中添加订阅，粘贴地址</li>
+        <li data-step="4. ">完成！新文章会自动推送到你的阅读器</li>
+      </ul>
+    </div>
+
+    <h2 style="font-size:20px; color:#0085a1; margin-bottom:16px;">📰 最新文章</h2>
+    <ul class="post-list">
+      <xsl:for-each select="/rss/channel/item">
+        <li class="post-item">
+          <div class="post-title">
+            <a href="{link}"><xsl:value-of select="title"/></a>
+          </div>
+          <div class="post-date"><xsl:value-of select="pubDate"/></div>
+          <div class="post-tags">
+            <xsl:for-each select="category">
+              <span class="tag"><xsl:value-of select="."/></span>
+            </xsl:for-each>
+          </div>
+        </li>
+      </xsl:for-each>
+    </ul>
+
+    <div class="footer">
+      <p>Powered by <a href="{/rss/channel/link}"><xsl:value-of select="/rss/channel/title"/></a> · Generated by Jekyll</p>
+    </div>
+  </div>
+</body>
+</html>
+</xsl:template>
+</xsl:stylesheet>
