@@ -367,6 +367,24 @@ header-mask: 0.3
     </ul>
 </div>
 
+<div style="margin-top: 20px; padding: 30px; background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%); border-radius: 10px; color: white;">
+    <h3 style="margin-top: 0;">🌙 以四十九岁之身，借圣贤胸襟观世事</h3>
+    <p><strong>类型：</strong>生活随笔 / 生命感悟</p>
+    <p><strong>内容概要：</strong>读王阳明龙场悟道，照见自己的半生烟云。三十七岁的先贤在蛮荒中勘破心学真谛，四十九岁的自己在盛世里体悟知行合一。从心即理到致良知，一个档案管理员的静夜思。</p>
+    <blockquote style="border-left: 4px solid rgba(255,255,255,0.4); padding-left: 15px; margin: 20px 0; font-style: italic; color: rgba(255,255,255,0.9);">
+        "此心光明，亦复何言。"
+    </blockquote>
+    <p><strong>核心主题：</strong></p>
+    <ul>
+        <li>📖 龙场悟道：炼狱里开出的花</li>
+        <li>🏔️ 四十九岁站在盛世肩膀上的庆幸与警醒</li>
+        <li>🔄 "心境切换"——去龙场站一站</li>
+        <li>💡 知行合一：一个档案管理员的笨功夫</li>
+        <li>🕯️ 致良知：心底那盏不灭的灯</li>
+    </ul>
+    <a href="/2026/06/23/wang-yangming-life-reflection.html" style="color: #4fc3f7; text-decoration: none;">阅读全文 →</a>
+</div>
+
 ---
 
 ## 🎯 正在进行的项目
