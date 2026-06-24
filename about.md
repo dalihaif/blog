@@ -168,6 +168,7 @@ header-mask: 0.3
 - **Email:** [dlaihaif@qq.com](mailto:dlaihaif@qq.com)
 - **QQ:** 81108411
 - **抖音:** 886722839
+- **小红书:** [265983653](https://www.xiaohongshu.com/user/profile/265983653)
 - **Tel:** 13988531240
 
 ---
