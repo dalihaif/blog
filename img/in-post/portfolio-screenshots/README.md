@@ -1,3 +1,7 @@
+---
+hide-in-nav: true
+---
+
 ## 作品集截图素材
 
 所有素材位于: `img/in-post/portfolio-screenshots/`
