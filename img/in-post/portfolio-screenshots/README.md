@@ -1,4 +1,4 @@
-## 作品集截图素材清单
+## 作品集截图素材
 
 所有素材位于: `img/in-post/portfolio-screenshots/`
 
