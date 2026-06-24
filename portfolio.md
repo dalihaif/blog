@@ -328,6 +328,20 @@ header-mask: 0.3
     <a href="/2026/06/17/docker-for-beginners.html" style="color: #00BCD4; text-decoration: none;">阅读全文 →</a>
 </div>
 
+### 易经入门心法
+
+<div style="background: #f5f5f5; padding: 20px; border-radius: 8px; border-left: 4px solid #9C27B;">
+    <h3 style="margin-top: 0; color: #9C27B;">☯ 易经不是用来读的，是用来查的——普通人学易入门心法</h3>
+    <p><strong>内容概要：</strong>易经是工具书，不是读物。从伏羲画卦、文王演易到孔子作传，掌握正确的学易姿势。</p>
+    <ul>
+        <li>为什么读不进去易经（它像字典，是用来查的）</li>
+        <li>三步脉络：伏羲八卦→文王六十四卦→孔子易传（十翼）</li>
+        <li>正确学法：起卦→查卦辞爻辞→分析利弊做决策</li>
+        <li>实操案例：用「革卦」做换工作的决策参考</li>
+        <li>入门建议：买好版本、学铜钱法、遇事起卦、看不懂翻易传</li>
+    </ul>
+    <p><strong>核心观点：</strong>易经的价值不是预测未来，是启迪当下。卦象是顾问，不是命运。</p>
+    <a href="/2026/06/25/how-to-learn-yijing-practically.html" style="color: #9C27B; text-decoration: none;">阅读全文 →</a>
 </div>
 
 ---

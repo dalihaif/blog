@@ -10,6 +10,8 @@ tags:
   - 标签2
 categories:
   - 分类名
+published: false
+hide-in-nav: true
 ---
 
 ## 前言
