@@ -16,6 +16,32 @@ header-mask: 0.3
 
 ---
 
+## 🤝 工作承诺
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+
+<div style="flex: 1; min-width: 200px; background: linear-gradient(135deg, #4CAF50, #8BC34A); padding: 25px; border-radius: 12px; color: white; box-shadow: 0 4px 12px rgba(76,175,80,0.3);">
+    <h3 style="margin-top: 0; font-size: 24px;">🤝</h3>
+    <h4 style="margin: 10px 0; font-size: 18px;">以人为本</h4>
+    <p style="margin: 0; font-size: 14px; line-height: 1.6; opacity: 0.95;">技术服务于人，设计温暖人心。关注用户真实需求，兼顾团队协作与人文关怀，让每一行代码、每一个设计都有温度。</p>
+</div>
+
+<div style="flex: 1; min-width: 200px; background: linear-gradient(135deg, #2196F3, #03A9F4); padding: 25px; border-radius: 12px; color: white; box-shadow: 0 4px 12px rgba(33,150,243,0.3);">
+    <h3 style="margin-top: 0; font-size: 24px;">🔍</h3>
+    <h4 style="margin: 10px 0; font-size: 18px;">实事求是</h4>
+    <p style="margin: 0; font-size: 14px; line-height: 1.6; opacity: 0.95;">一切从实际出发，用数据和事实说话。不空谈理论，不盲从潮流，解决问题导向，做真正有价值的事。</p>
+</div>
+
+<div style="flex: 1; min-width: 200px; background: linear-gradient(135deg, #FF9800, #FFC107); padding: 25px; border-radius: 12px; color: white; box-shadow: 0 4px 12px rgba(255,152,0,0.3);">
+    <h3 style="margin-top: 0; font-size: 24px;">🎯</h3>
+    <h4 style="margin: 10px 0; font-size: 18px;">精益求精</h4>
+    <p style="margin: 0; font-size: 14px; line-height: 1.6; opacity: 0.95;">追求极致，拒绝将就。每一行代码、每一处设计都反复打磨，持续迭代优化，用专业态度对待每一个细节。</p>
+</div>
+
+</div>
+
+---
+
 ## 🎯 我的标签
 
 ### 💼 职业身份
