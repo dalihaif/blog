@@ -4,7 +4,7 @@ title: "小红书"
 subtitle: "博客文章的小红书版本"
 date: 2026-06-25
 author: "老墨"
-header-img: "img/post-bg-xiaohongshu.jpg"
+header-img: "img/post-bg-dreamer.jpg"
 tags:
   - 小红书
 categories:
