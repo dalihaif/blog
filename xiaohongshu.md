@@ -9,6 +9,7 @@ tags:
   - 小红书
 categories:
   - 小红书
+hide-in-nav: true
 description: "博客精选文章改写为小红书发布版本，涵盖心学感悟、技术教程、人生思考等主题。"
 ---
 
