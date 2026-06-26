@@ -1,18 +1,14 @@
 ---
 layout: post
-title: "苍山王陵（九）·出山"
+title: "《苍山古墓》第二十五章至第二十七章：逃生 · 追杀 · 真相"
 subtitle: "从山里出来之后，最难受的不是腿酸——是忽然听见了太阳的声音。"
-date: 2026-06-26
+date: 2026-06-26 09:00:00 +0800
 author: "老墨"
 header-img: "img/post-bg-desk.jpg"
-tags:
-  - 苍山王陵
-  - 盗墓悬疑
-  - 南诏
-  - 大理国
-  - 连载
-categories:
-  - 小说连载
+tags: [苍山古墓, 盗墓, 小说, 连载]
+categories: [小说]
+series: "苍山古墓"
+series_order: 9
 ---
 
 *本篇为《苍山王陵》第二卷（无量山）连载第二十五章至第二十七章。*

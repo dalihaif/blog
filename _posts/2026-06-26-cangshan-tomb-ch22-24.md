@@ -1,18 +1,14 @@
 ---
 layout: post
-title: "苍山王陵（八）·主陵"
+title: "《苍山古墓》第二十二章至第二十四章：守护者 · 千年秘密 · 抉择"
 subtitle: "进门前我就应该想到的——这座墓，不是建来葬人的。是建来等人的。"
-date: 2026-06-26
+date: 2026-06-26 08:00:00 +0800
 author: "老墨"
 header-img: "img/post-bg-desk.jpg"
-tags:
-  - 苍山王陵
-  - 盗墓悬疑
-  - 南诏
-  - 大理国
-  - 连载
-categories:
-  - 小说连载
+tags: [苍山古墓, 盗墓, 小说, 连载]
+categories: [小说]
+series: "苍山古墓"
+series_order: 8
 ---
 
 *本篇为《苍山王陵》第二卷（无量山）连载第二十二章至第二十四章。*

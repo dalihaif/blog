@@ -1,18 +1,14 @@
 ---
 layout: post
-title: "苍山王陵（二）·入山"
+title: "《苍山古墓》第四章至第六章：入山 · 甬道 · 前室"
 subtitle: "在山里，最可怕的不是迷路，是你以为自己没有迷路。"
-date: 2026-06-26
+date: 2026-06-26 02:00:00 +0800
 author: "老墨"
 header-img: "img/post-bg-desk.jpg"
-tags:
-  - 苍山王陵
-  - 盗墓悬疑
-  - 南诏
-  - 大理国
-  - 连载
-categories:
-  - 小说连载
+tags: [苍山古墓, 盗墓, 小说, 连载]
+categories: [小说]
+series: "苍山古墓"
+series_order: 2
 ---
 
 *本篇为《苍山王陵》连载第四章至第六章。*

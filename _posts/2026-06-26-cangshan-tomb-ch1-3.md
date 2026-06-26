@@ -1,18 +1,21 @@
 ---
 layout: post
-title: "苍山王陵（一）·旧书摊上的残卷"
+title: "《苍山古墓》第一章至第三章：旧书摊上的残卷"
 subtitle: "一个人若能守住千年的秘密，那这个秘密本身，就已经成了最危险的机关。"
-date: 2026-06-26
+date: 2026-06-26 01:00:00 +0800
 author: "老墨"
 header-img: "img/post-bg-desk.jpg"
 tags:
-  - 苍山王陵
+  - 苍山古墓
   - 盗墓悬疑
   - 南诏
   - 大理国
   - 连载
+  - 小说
 categories:
-  - 小说连载
+  - 小说
+series: "苍山古墓"
+series_order: 1
 ---
 
 *本篇为《苍山王陵》连载第一章至第三章。*

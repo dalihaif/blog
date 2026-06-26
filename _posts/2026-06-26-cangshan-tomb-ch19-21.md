@@ -1,18 +1,14 @@
 ---
 layout: post
-title: "苍山王陵（七）·上山"
+title: "《苍山古墓》第十九章至第二十一章：主陵 · 青铜球 · 能量源"
 subtitle: "在山里最怕的事情，不是迷路——是山本身在看着你走。"
-date: 2026-06-26
+date: 2026-06-26 07:00:00 +0800
 author: "老墨"
 header-img: "img/post-bg-desk.jpg"
-tags:
-  - 苍山王陵
-  - 盗墓悬疑
-  - 南诏
-  - 大理国
-  - 连载
-categories:
-  - 小说连载
+tags: [苍山古墓, 盗墓, 小说, 连载]
+categories: [小说]
+series: "苍山古墓"
+series_order: 7
 ---
 
 *本篇为《苍山王陵》第二卷（无量山）连载第十九章至第二十一章。*

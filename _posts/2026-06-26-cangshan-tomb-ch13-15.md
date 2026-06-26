@@ -1,18 +1,14 @@
 ---
 layout: post
-title: "苍山王陵（五）·开棺"
+title: "《苍山古墓》第十三章至第十五章：开棺 · 守墓人 · 第一卷终章"
 subtitle: "在墓里最深的恐惧，不是遇见死人，是遇见一个你以为已经死了的活人。"
-date: 2026-06-26
+date: 2026-06-26 05:00:00 +0800
 author: "老墨"
 header-img: "img/post-bg-desk.jpg"
-tags:
-  - 苍山王陵
-  - 盗墓悬疑
-  - 南诏
-  - 大理国
-  - 连载
-categories:
-  - 小说连载
+tags: [苍山古墓, 盗墓, 小说, 连载]
+categories: [小说]
+series: "苍山古墓"
+series_order: 5
 ---
 
 *本篇为《苍山王陵》连载第十三章至第十五章。第一卷（苍山王陵）终章。*

@@ -1,18 +1,14 @@
 ---
 layout: post
-title: "苍山王陵（三）·甬道"
+title: "《苍山古墓》第七章至第九章：青铜门 · 主墓室 · 玉瞳"
 subtitle: "在地底，最可怕的不是黑暗，是黑暗里有什么东西，在和你一样地呼吸。"
-date: 2026-06-26
+date: 2026-06-26 03:00:00 +0800
 author: "老墨"
 header-img: "img/post-bg-desk.jpg"
-tags:
-  - 苍山王陵
-  - 盗墓悬疑
-  - 南诏
-  - 大理国
-  - 连载
-categories:
-  - 小说连载
+tags: [苍山古墓, 盗墓, 小说, 连载]
+categories: [小说]
+series: "苍山古墓"
+series_order: 3
 ---
 
 *本篇为《苍山王陵》连载第七章至第九章。*

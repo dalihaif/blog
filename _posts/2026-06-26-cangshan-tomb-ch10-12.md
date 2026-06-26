@@ -1,18 +1,14 @@
 ---
 layout: post
-title: "苍山王陵（四）·前室"
+title: "《苍山古墓》第十章至第十二章：机关重重 · 暗格陷阱 · 逃生之路"
 subtitle: "星图在头顶，但九只眼睛告诉你的方向，在地上。"
-date: 2026-06-26
+date: 2026-06-26 04:00:00 +0800
 author: "老墨"
 header-img: "img/post-bg-desk.jpg"
-tags:
-  - 苍山王陵
-  - 盗墓悬疑
-  - 南诏
-  - 大理国
-  - 连载
-categories:
-  - 小说连载
+tags: [苍山古墓, 盗墓, 小说, 连载]
+categories: [小说]
+series: "苍山古墓"
+series_order: 4
 ---
 
 *本篇为《苍山王陵》连载第十章至第十二章。*

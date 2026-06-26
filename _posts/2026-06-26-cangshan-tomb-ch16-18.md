@@ -1,18 +1,14 @@
 ---
 layout: post
-title: "苍山王陵（六）·守墓人"
+title: "《苍山古墓》第十六章至第十八章：无量山 · 上山 · 守墓人"
 subtitle: "一盏没有熄灭的铜灯，比任何棺材都让人害怕。"
-date: 2026-06-26
+date: 2026-06-26 06:00:00 +0800
 author: "老墨"
 header-img: "img/post-bg-desk.jpg"
-tags:
-  - 苍山王陵
-  - 盗墓悬疑
-  - 南诏
-  - 大理国
-  - 连载
-categories:
-  - 小说连载
+tags: [苍山古墓, 盗墓, 小说, 连载]
+categories: [小说]
+series: "苍山古墓"
+series_order: 6
 ---
 
 *本篇为《苍山王陵》第二卷（无量山）连载第十六章至第十八章。*
