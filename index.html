@@ -4,6 +4,33 @@ description: "「离开世界之前 一切都是过程」"
 hide-header-title: true
 ---
 
+<!-- 系列小说推荐 -->
+{% assign featured_series = site.data.series.series | where: "name", "苍山古墓" | first %}
+{% if featured_series %}
+<div class="series-highlight" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px; border-radius: 10px; margin-bottom: 40px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <div class="row">
+        <div class="col-sm-8">
+            <h2 style="margin-top: 0; color: white;">
+                <i class="fa fa-book"></i> 《{{ featured_series.name }}》
+            </h2>
+            <p style="font-size: 16px; margin-bottom: 15px; color: rgba(255,255,255,0.9);">
+                一部《盗墓笔记》风格的第一人称悬疑探险小说，共30章正文 + 4篇番外
+            </p>
+            <p style="color: rgba(255,255,255,0.8);">
+                <i class="fa fa-file-text-o"></i> {{ featured_series.posts.size }} 篇文章
+                &nbsp;&nbsp;
+                <i class="fa fa-clock-o"></i> 大约 2 小时阅读时间
+            </p>
+        </div>
+        <div class="col-sm-4 text-right" style="display: flex; align-items: center; justify-content: center;">
+            <a href="{{ site.baseurl }}/cangshan-tomb-series/" class="btn btn-lg" style="background: white; color: #667eea; font-weight: bold; border-radius: 25px; padding: 12px 30px;">
+                <i class="fa fa-play-circle"></i> 开始阅读
+            </a>
+        </div>
+    </div>
+</div>
+{% endif %}
+
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">

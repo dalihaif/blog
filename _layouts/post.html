@@ -25,7 +25,54 @@ layout: default
                     {% include multilingual-sel.html %}
                 {% endif %}
 
-				{{ content }}
+                {{ content }}
+
+                <!-- 系列文章导航 -->
+                {% if page.series %}
+                <div class="series-navigation" style="margin: 30px 0; padding: 20px; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #4a90d9;">
+                    <h4 style="margin-top: 0; color: #4a90d9;">
+                        <i class="fa fa-book"></i> 《{{ page.series }}》系列
+                    </h4>
+                    {% assign series_data = site.data.series.series | where: "name", page.series | first %}
+                    {% if series_data %}
+                        {% assign current_order = page.series_order | plus: 0 %}
+                        {% assign prev_post = null %}
+                        {% assign next_post = null %}
+                        {% for post in series_data.posts %}
+                            {% assign post_order = post.order | plus: 0 %}
+                            {% if post_order == current_order | minus: 1 %}
+                                {% assign prev_post = post %}
+                            {% endif %}
+                            {% if post_order == current_order | plus: 1 %}
+                                {% assign next_post = post %}
+                            {% endif %}
+                        {% endfor %}
+                        <div class="row" style="margin-top: 15px;">
+                            <div class="col-sm-6" style="margin-bottom: 10px;">
+                                {% if prev_post %}
+                                    <a href="{{ prev_post.url | prepend: site.baseurl }}" class="btn btn-default btn-block" style="text-align: left;">
+                                        <i class="fa fa-arrow-left"></i> 上一章<br>
+                                        <small style="color: #666;">{{ prev_post.title }}</small>
+                                    </a>
+                                {% endif %}
+                            </div>
+                            <div class="col-sm-6" style="margin-bottom: 10px;">
+                                {% if next_post %}
+                                    <a href="{{ next_post.url | prepend: site.baseurl }}" class="btn btn-default btn-block" style="text-align: right;">
+                                        下一章 <i class="fa fa-arrow-right"></i><br>
+                                        <small style="color: #666;">{{ next_post.title }}</small>
+                                    </a>
+                                {% endif %}
+                            </div>
+                        </div>
+                        <div style="text-align: center; margin-top: 10px;">
+                            <a href="{{ site.baseurl }}/cangshan-tomb-series/" class="btn btn-primary btn-sm">
+                                <i class="fa fa-list"></i> 查看完整系列
+                            </a>
+                        </div>
+                    {% endif %}
+                </div>
+                {% endif %}
 
                 <hr style="visibility: hidden;">
                 <ul class="pager">
