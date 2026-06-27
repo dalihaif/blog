@@ -27,16 +27,16 @@ categories: [小说]
 
 | 序号 | 章节 | 标题 | 链接 |
 |------|------|------|------|
-| 1 | 第1-3章 | 旧书摊上的残卷 · 白族老人的秘闻 · 苍山龙脉 | [开始阅读]({{ site.baseurl }}/2026/06/26/cangshan-tomb-ch1-3/) |
-| 2 | 第4-6章 | 入山 · 石翁仲 · 第一道墓门 | [继续阅读]({{ site.baseurl }}/2026/06/26/cangshan-tomb-ch4-6/) |
-| 3 | 第7-9章 | 甬道 · 壁画 · 前室机关 | [继续阅读]({{ site.baseurl }}/2026/06/26/cangshan-tomb-ch7-9/) |
-| 4 | 第10-12章 | 重返 · 前室 · 暗河 | [继续阅读]({{ site.baseurl }}/2026/06/26/cangshan-tomb-ch10-12/) |
-| 5 | 第13-15章 | 主墓室 · 九眼 · 无量山 | [继续阅读]({{ site.baseurl }}/2026/06/26/cangshan-tomb-ch13-15/) |
-| 6 | 第16-18章 | 灯 · 无量山 · 山形 | [继续阅读]({{ site.baseurl }}/2026/06/26/cangshan-tomb-ch16-18/) |
-| 7 | 第19-21章 | 入山 · 七窍 · 血耀 | [继续阅读]({{ site.baseurl }}/2026/06/26/cangshan-tomb-ch19-21/) |
-| 8 | 第22-24章 | 门后 · 星葬 · 守墓人 | [继续阅读]({{ site.baseurl }}/2026/06/26/cangshan-tomb-ch22-24/) |
-| 9 | 第25-27章 | 出山 · 传承 · 星图真相 | [继续阅读]({{ site.baseurl }}/2026/06/26/cangshan-tomb-ch25-27/) |
-| 10 | 第28-30章 | 重返苍山 · 王陵群 · 龙脉永续（大结局） | [阅读大结局]({{ site.baseurl }}/2026/06/26/cangshan-tomb-ch28-30-finale/) |
+| 1 | 第1-3章 | 旧书摊上的残卷 · 白族老人的秘闻 · 苍山龙脉 | [开始阅读]({{ site.baseurl }}/%E5%B0%8F%E8%AF%B4/2026/06/26/cangshan-tomb-ch1-3/) |
+| 2 | 第4-6章 | 入山 · 石翁仲 · 第一道墓门 | [继续阅读]({{ site.baseurl }}/%E5%B0%8F%E8%AF%B4/2026/06/26/cangshan-tomb-ch4-6/) |
+| 3 | 第7-9章 | 甬道 · 壁画 · 前室机关 | [继续阅读]({{ site.baseurl }}/%E5%B0%8F%E8%AF%B4/2026/06/26/cangshan-tomb-ch7-9/) |
+| 4 | 第10-12章 | 重返 · 前室 · 暗河 | [继续阅读]({{ site.baseurl }}/%E5%B0%8F%E8%AF%B4/2026/06/26/cangshan-tomb-ch10-12/) |
+| 5 | 第13-15章 | 主墓室 · 九眼 · 无量山 | [继续阅读]({{ site.baseurl }}/%E5%B0%8F%E8%AF%B4/2026/06/26/cangshan-tomb-ch13-15/) |
+| 6 | 第16-18章 | 灯 · 无量山 · 山形 | [继续阅读]({{ site.baseurl }}/%E5%B0%8F%E8%AF%B4/2026/06/26/cangshan-tomb-ch16-18/) |
+| 7 | 第19-21章 | 入山 · 七窍 · 血耀 | [继续阅读]({{ site.baseurl }}/%E5%B0%8F%E8%AF%B4/2026/06/26/cangshan-tomb-ch19-21/) |
+| 8 | 第22-24章 | 门后 · 星葬 · 守墓人 | [继续阅读]({{ site.baseurl }}/%E5%B0%8F%E8%AF%B4/2026/06/26/cangshan-tomb-ch22-24/) |
+| 9 | 第25-27章 | 出山 · 传承 · 星图真相 | [继续阅读]({{ site.baseurl }}/%E5%B0%8F%E8%AF%B4/2026/06/26/cangshan-tomb-ch25-27/) |
+| 10 | 第28-30章 | 重返苍山 · 王陵群 · 龙脉永续（大结局） | [阅读大结局]({{ site.baseurl }}/%E5%B0%8F%E8%AF%B4/2026/06/26/cangshan-tomb-ch28-30-finale/) |
 
 ---
 
@@ -44,9 +44,9 @@ categories: [小说]
 
 | 序号 | 标题 | 简介 | 链接 |
 |------|------|------|------|
-| 番外一 | 入陵 | 以守墓人李阿明的视角，记述在无量山主陵中守墓三十一年的心路历程 | [阅读番外]({{ site.baseurl }}/2026/06/26/cangshan-tomb-bonus/) |
-| 番外二 | 灯 | 守墓人与古墓中千年不灭铜灯的秘密 | [阅读番外]({{ site.baseurl }}/2026/06/26/cangshan-tomb-bonus/) |
-| 番外三 | 蓝光 | 主墓室深处蓝光的真相揭示 | [阅读番外]({{ site.baseurl }}/2026/06/26/cangshan-tomb-bonus/) |
+| 番外一 | 入陵 | 以守墓人李阿明的视角，记述在无量山主陵中守墓三十一年的心路历程 | [阅读番外]({{ site.baseurl }}/%E5%B0%8F%E8%AF%B4/2026/06/26/cangshan-tomb-bonus/) |
+| 番外二 | 灯 | 守墓人与古墓中千年不灭铜灯的秘密 | [阅读番外]({{ site.baseurl }}/%E5%B0%8F%E8%AF%B4/2026/06/26/cangshan-tomb-bonus/) |
+| 番外三 | 蓝光 | 主墓室深处蓝光的真相揭示 | [阅读番外]({{ site.baseurl }}/%E5%B0%8F%E8%AF%B4/2026/06/26/cangshan-tomb-bonus/) |
 ---
 
 ## 🎭 主要角色
