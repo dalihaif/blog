@@ -34,7 +34,7 @@ categories: [小说]
 | 7 | 第19-21章 | 入山 · 七窍 · 血耀 | [继续阅读]({{ site.baseurl }}/2026/06/26/cangshan-tomb-ch19-21/) |
 | 8 | 第22-24章 | 门后 · 星葬 · 守墓人 | [继续阅读]({{ site.baseurl }}/2026/06/26/cangshan-tomb-ch22-24/) |
 | 9 | 第25-27章 | 出山 · 传承 · 星图真相 | [继续阅读]({{ site.baseurl }}/2026/06/26/cangshan-tomb-ch25-27/) |
-| 10 | 第28-30章 | 重返无量山 · 千年星图 · 尾声（大结局） | [阅读大结局]({{ site.baseurl }}/2026/06/26/cangshan-tomb-ch28-30-finale/) |
+| 10 | 第28-30章 | 重返苍山 · 王陵群 · 龙脉永续（大结局） | [阅读大结局]({{ site.baseurl }}/2026/06/26/cangshan-tomb-ch28-30-finale/) |
 
 ---
 
