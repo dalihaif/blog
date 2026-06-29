@@ -26,7 +26,7 @@ douyin_id: "886722839"
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
-paginate: 10
+paginate: 20
 exclude:
   [
     "less",
@@ -125,4 +125,8 @@ page-mathjax: false
 friends:
   [
     { title: "GitHub", href: "https://github.com/dalihaif" },
+    { title: "云端院史馆", href: "https://dalihaif.github.io/DFY" },
+    { title: "李氏族谱", href: "https://dalihaif.github.io/li" },
+    { title: "老墨的博客", href: "https://dalihaif.github.io/blog" },
+
   ]
