@@ -19,9 +19,14 @@
 .sidebar-container {
   color: @gray-light;
   font-size: 14px;
+  background: #fafafa;               // 浅灰背景
+  border-radius: 8px;
+  padding: 20px;
+  
   h5 {
     color: @brand-gray;
-    padding-bottom: 1em;
+    padding-bottom: 10px;
+    border-bottom: 2px solid @brand-primary;  // 标题下划线
     a {
       color: @brand-gray !important;
       text-decoration: none;
@@ -37,9 +42,15 @@
   .tags {
     a {
       border-color: @gray-light;
+      border-radius: 20px;               // 胶囊形状
+      padding: 5px 15px;
+      transition: all 0.2s ease;
+      
       &:hover,
       &:active {
         border-color: @brand-primary;
+        background: @brand-primary;
+        color: #fff !important;
       }
     }
   }

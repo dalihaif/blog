@@ -107,15 +107,15 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "在平凡的岗位上，做不平凡的事 <br> 医院档案室的技术爱好者"
-sidebar-avatar: https://dalihaif.github.io/blog/img/avatar-mo.jpg
+sidebar-about-description: "在平凡的岗位上，做不平凡的事<br>医院档案室的技术爱好者 | 用代码和设计记录生活"
+sidebar-avatar: /img/avatar-mo.jpg  # 使用相对路径
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
 featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value
 
 # Progressive Web Apps
-chrome-tab-theme-color: "#000000"
+chrome-tab-theme-color: "#0085a1"  # 与主色调保持一致
 service-worker: true
 
 # MathJax rendering for layout:page (e.g. post preview)
