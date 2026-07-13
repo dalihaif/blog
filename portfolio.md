@@ -416,6 +416,23 @@ header-mask: 0.3
     <a href="/blog/nan-zhao-gu-wen-fu/" style="color: #ffd700; text-decoration: none;">进入小说专区 →</a>
 </div>
 
+<div style="margin-top: 20px; padding: 30px; background: linear-gradient(135deg, #0a2e4d 0%, #1a4a6e 40%, #2d6a8f 100%); border-radius: 10px; color: #e8f0f5;">
+    <h3 style="margin-top: 0; color: #7ec8e3;">🌊 洱海镇灵书（长篇民俗奇幻小说·全书完结）</h3>
+    <p style="color: #a0c8d8;"><strong>类型：</strong>长篇民俗奇幻小说 | 大理苍山洱海真实地标 | 全书75章</p>
+    <p style="color: #c0d8e0;"><strong>内容概要：</strong>洱海不是海，是一道封印。扎染铺老板老墨掌心有块洱海形状的胎记，是打开封印的钥匙。封灵四境每一步都绑定不可逆代价——封灵师的宿命不是荣耀，是祭献。最终他走出第三条路：以洱海之心替代人身，以万民信仰替代封灵师，建立一套能自我循环的新封印。</p>
+    <blockquote style="border-left: 4px solid #7ec8e3; padding-left: 15px; margin: 20px 0; font-style: italic; color: #a0c8d8;">
+        "真正的守护从来不是靠一个英雄扛下一切，而是靠普通人薪火相传。"
+    </blockquote>
+    <p style="color: #c0d8e0;"><strong>四卷结构（全书完结）：</strong></p>
+    <ul style="color: #b0d0e0;">
+        <li>第一卷·塔影初现 ✅ 已完结（15章）</li>
+        <li>第二卷·双廊水影 ✅ 已完结（20章）</li>
+        <li>第三卷·苍山雪隐 ✅ 已完结（20章）</li>
+        <li>第四卷·洱海镇灵 ✅ 已完结（20章·全书终）</li>
+    </ul>
+    <a href="/blog/er-hai-zhen-ling-shu/" style="color: #7ec8e3; text-decoration: none;">进入小说专区 →</a>
+</div>
+
 ---
 
 ## 🎯 正在进行的项目
