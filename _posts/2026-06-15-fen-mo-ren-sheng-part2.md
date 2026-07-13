@@ -13,7 +13,7 @@ categories:
   - 生活感悟
 ---
 
-> 📖 本文为《粉墨人生》自传系列中篇，讲述老墨从师生情深、宿舍温情到镜头首秀的成长岁月。[上篇：三十五年归档，半生留白 →](/2026/06/15/fen-mo-ren-sheng-part1.html) [下篇：圆梦收官 →](/2026/06/15/fen-mo-ren-sheng-part3.html)
+> 📖 本文为《粉墨人生》自传系列中篇，讲述老墨从师生情深、宿舍温情到镜头首秀的成长岁月。[上篇：三十五年归档，半生留白 →](/blog/2026/06/15/fen-mo-ren-sheng-part1/) [下篇：圆梦收官 →](/blog/2026/06/15/fen-mo-ren-sheng-part3/)
 
 ---
 
@@ -806,9 +806,9 @@ categories:
 ---
 
 **导航**
-- [← 上篇：三十五年归档，半生留白](/2026/06/15/fen-mo-ren-sheng-part1.html)
+- [← 上篇：三十五年归档，半生留白](/blog/2026/06/15/fen-mo-ren-sheng-part1/)
 - 中篇（当前）
-- [下篇：圆梦收官 →](/2026/06/15/fen-mo-ren-sheng-part3.html)
+- [下篇：圆梦收官 →](/blog/2026/06/15/fen-mo-ren-sheng-part3/)
 
 ---
 

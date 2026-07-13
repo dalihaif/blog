@@ -265,6 +265,6 @@ tags:
 
 ---
 
-*上一章：[以命护坟](/2026/07/14/nanzhao-guwen-fu-vol2-ch04/)*
-*下一章：[分裂真相](/2026/07/14/nanzhao-guwen-fu-vol2-ch06/)*
-*回到目录：[南诏古纹赋·总目录](/nan-zhao-gu-wen-fu/)*
+*上一章：[以命护坟](/blog/2026/07/14/nanzhao-guwen-fu-vol2-ch04/)*
+*下一章：[分裂真相](/blog/2026/07/14/nanzhao-guwen-fu-vol2-ch06/)*
+*回到目录：[南诏古纹赋·总目录](/blog/nan-zhao-gu-wen-fu/)*

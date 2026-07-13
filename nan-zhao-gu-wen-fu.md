@@ -105,14 +105,14 @@ header-mask: 0.4
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| 第一章 | 苍山异雨 | [阅读 →](/2026/07/13/nanzhao-guwen-fu-vol1-ch01/) |
-| 第二章 | 扎染铺里的褪色符 | [阅读 →](/2026/07/13/nanzhao-guwen-fu-vol1-ch02/) |
-| 第三章 | 本主庙神像开裂 | [阅读 →](/2026/07/13/nanzhao-guwen-fu-vol1-ch03/) |
-| 第四章 | 沉默的守坟人 | [阅读 →](/2026/07/13/nanzhao-guwen-fu-vol1-ch04/) |
-| 第五章 | 白文初现 | [阅读 →](/2026/07/13/nanzhao-guwen-fu-vol1-ch05/) |
-| 第六章 | 后山夜火 | [阅读 →](/2026/07/13/nanzhao-guwen-fu-vol1-ch06/) |
-| 第七章 | 暗流涌动 | [阅读 →](/2026/07/13/nanzhao-guwen-fu-vol1-ch07/) |
-| 第八章 | 祖训动摇（卷终） | [阅读 →](/2026/07/13/nanzhao-guwen-fu-vol1-ch08/) |
+| 第一章 | 苍山异雨 | [阅读 →](/blog/2026/07/13/nanzhao-guwen-fu-vol1-ch01/) |
+| 第二章 | 扎染铺里的褪色符 | [阅读 →](/blog/2026/07/13/nanzhao-guwen-fu-vol1-ch02/) |
+| 第三章 | 本主庙神像开裂 | [阅读 →](/blog/2026/07/13/nanzhao-guwen-fu-vol1-ch03/) |
+| 第四章 | 沉默的守坟人 | [阅读 →](/blog/2026/07/13/nanzhao-guwen-fu-vol1-ch04/) |
+| 第五章 | 白文初现 | [阅读 →](/blog/2026/07/13/nanzhao-guwen-fu-vol1-ch05/) |
+| 第六章 | 后山夜火 | [阅读 →](/blog/2026/07/13/nanzhao-guwen-fu-vol1-ch06/) |
+| 第七章 | 暗流涌动 | [阅读 →](/blog/2026/07/13/nanzhao-guwen-fu-vol1-ch07/) |
+| 第八章 | 祖训动摇（卷终） | [阅读 →](/blog/2026/07/13/nanzhao-guwen-fu-vol1-ch08/) |
 
 ### 第二卷：地宫星棺·三脉纷争 ✅ 已完结
 
@@ -120,13 +120,13 @@ header-mask: 0.4
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| 第九章 | 风起苍山 | [阅读 →](/2026/07/14/nanzhao-guwen-fu-vol2-ch01/) |
-| 第十章 | 不速之客 | [阅读 →](/2026/07/14/nanzhao-guwen-fu-vol2-ch02/) |
-| 第十一章 | 夜袭祖坟 | [阅读 →](/2026/07/14/nanzhao-guwen-fu-vol2-ch03/) |
-| 第十二章 | 以命护坟 | [阅读 →](/2026/07/14/nanzhao-guwen-fu-vol2-ch04/) |
-| 第十三章 | 三脉后人 | [阅读 →](/2026/07/14/nanzhao-guwen-fu-vol2-ch05/) |
-| 第十四章 | 分裂真相 | [阅读 →](/2026/07/14/nanzhao-guwen-fu-vol2-ch06/) |
-| 第十五章 | 星棺初现（卷终） | [阅读 →](/2026/07/14/nanzhao-guwen-fu-vol2-ch07/) |
+| 第九章 | 风起苍山 | [阅读 →](/blog/2026/07/14/nanzhao-guwen-fu-vol2-ch01/) |
+| 第十章 | 不速之客 | [阅读 →](/blog/2026/07/14/nanzhao-guwen-fu-vol2-ch02/) |
+| 第十一章 | 夜袭祖坟 | [阅读 →](/blog/2026/07/14/nanzhao-guwen-fu-vol2-ch03/) |
+| 第十二章 | 以命护坟 | [阅读 →](/blog/2026/07/14/nanzhao-guwen-fu-vol2-ch04/) |
+| 第十三章 | 三脉后人 | [阅读 →](/blog/2026/07/14/nanzhao-guwen-fu-vol2-ch05/) |
+| 第十四章 | 分裂真相 | [阅读 →](/blog/2026/07/14/nanzhao-guwen-fu-vol2-ch06/) |
+| 第十五章 | 星棺初现（卷终） | [阅读 →](/blog/2026/07/14/nanzhao-guwen-fu-vol2-ch07/) |
 
 ### 第三卷：南诏分鼎·上古遗祸 ✅ 已完结
 
@@ -134,9 +134,9 @@ header-mask: 0.4
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| 第十六章 | 七天倒计时 | [阅读 →](/2026/07/15/nanzhao-guwen-fu-vol3-ch01/) |
-| 第十七章 | 龙腹之秘 | [阅读 →](/2026/07/15/nanzhao-guwen-fu-vol3-ch02/) |
-| 第十八章 | 三鼎合围（卷终） | [阅读 →](/2026/07/15/nanzhao-guwen-fu-vol3-ch03/) |
+| 第十六章 | 七天倒计时 | [阅读 →](/blog/2026/07/15/nanzhao-guwen-fu-vol3-ch01/) |
+| 第十七章 | 龙腹之秘 | [阅读 →](/blog/2026/07/15/nanzhao-guwen-fu-vol3-ch02/) |
+| 第十八章 | 三鼎合围（卷终） | [阅读 →](/blog/2026/07/15/nanzhao-guwen-fu-vol3-ch03/) |
 
 ### 第四卷：此心光明·万古守脉 ✅ 已完结（全书终）
 
@@ -144,8 +144,8 @@ header-mask: 0.4
 
 | 章节 | 标题 | 链接 |
 |------|------|------|
-| 第十九章 | 封印破碎 | [阅读 →](/2026/07/16/nanzhao-guwen-fu-vol4-ch01/) |
-| 第二十章 | 此心光明（全书终） | [阅读 →](/2026/07/16/nanzhao-guwen-fu-vol4-ch02/) |
+| 第十九章 | 封印破碎 | [阅读 →](/blog/2026/07/16/nanzhao-guwen-fu-vol4-ch01/) |
+| 第二十章 | 此心光明（全书终） | [阅读 →](/blog/2026/07/16/nanzhao-guwen-fu-vol4-ch02/) |
 
 ---
 
@@ -153,7 +153,7 @@ header-mask: 0.4
 
 **首次阅读建议从第一卷第一章开始，按顺序阅读。**
 
-- 如果你读过老墨的前作《[苍山龙脉](/cangshan-tomb-series/)》，会对部分背景设定更有代入感
+- 如果你读过老墨的前作《[苍山龙脉](/blog/cangshan-tomb-series/)》，会对部分背景设定更有代入感
 - 如果你对王阳明心学感兴趣，可以关注本书中"藏与传"的主题——真正的守脉，不是把典籍锁进黑暗的地底，而是让文字活在每一个人的光明本心之中
 - 本书融合白族文化、南诏历史、上古神话，所有地理和文化背景均有据可考
 

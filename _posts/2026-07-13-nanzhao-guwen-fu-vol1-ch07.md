@@ -246,11 +246,11 @@ tags:
 
 ---
 
-*上一章：[后山夜火](/2026/07/13/nanzhao-guwen-fu-vol1-ch06/)*
-*下一章：[祖训动摇](/2026/07/13/nanzhao-guwen-fu-vol1-ch08/)*
+*上一章：[后山夜火](/blog/2026/07/13/nanzhao-guwen-fu-vol1-ch06/)*
+*下一章：[祖训动摇](/blog/2026/07/13/nanzhao-guwen-fu-vol1-ch08/)*
 
 ---
 
 > *相关阅读：*
-> - *[苍山龙脉：寻找南诏与大理国失落的王陵](/cangshan-tomb-series/)* — 老墨的前作，本书故事的前传
-> - *[王阳明+毛主席顶级思维重构档案管理](/2026/06/20/top-level-thinking-wang-yangming-mao/)* — 心学与实际工作的结合
+> - *[苍山龙脉：寻找南诏与大理国失落的王陵](/blog/cangshan-tomb-series/)* — 老墨的前作，本书故事的前传
+> - *[王阳明+毛主席顶级思维重构档案管理](/blog/2026/06/20/top-level-thinking-wang-yangming-mao/)* — 心学与实际工作的结合

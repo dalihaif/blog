@@ -248,6 +248,6 @@ tags:
 
 ---
 
-*上一章：[星棺初现](/2026/07/14/nanzhao-guwen-fu-vol2-ch07/)*
-*下一章：[扎染符布](/2026/07/15/nanzhao-guwen-fu-vol3-ch02/)*
-*回到目录：[南诏古纹赋·总目录](/nan-zhao-gu-wen-fu/)*
+*上一章：[星棺初现](/blog/2026/07/14/nanzhao-guwen-fu-vol2-ch07/)*
+*下一章：[扎染符布](/blog/2026/07/15/nanzhao-guwen-fu-vol3-ch02/)*
+*回到目录：[南诏古纹赋·总目录](/blog/nan-zhao-gu-wen-fu/)*

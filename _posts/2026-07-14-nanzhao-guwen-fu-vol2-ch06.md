@@ -293,6 +293,6 @@ tags:
 
 ---
 
-*上一章：[三脉后人](/2026/07/14/nanzhao-guwen-fu-vol2-ch05/)*
-*下一章：[地龙脉殿入口](/2026/07/14/nanzhao-guwen-fu-vol2-ch07/)*
-*回到目录：[南诏古纹赋·总目录](/nan-zhao-gu-wen-fu/)*
+*上一章：[三脉后人](/blog/2026/07/14/nanzhao-guwen-fu-vol2-ch05/)*
+*下一章：[地龙脉殿入口](/blog/2026/07/14/nanzhao-guwen-fu-vol2-ch07/)*
+*回到目录：[南诏古纹赋·总目录](/blog/nan-zhao-gu-wen-fu/)*

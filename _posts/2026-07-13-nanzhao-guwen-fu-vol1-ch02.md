@@ -342,10 +342,10 @@ tags:
 
 ---
 
-*上一章：[苍山异雨](/2026/07/13/nanzhao-guwen-fu-vol1-ch01/)*
-*下一章：[本主庙神像开裂](/2026/07/13/nanzhao-guwen-fu-vol1-ch03/)*
+*上一章：[苍山异雨](/blog/2026/07/13/nanzhao-guwen-fu-vol1-ch01/)*
+*下一章：[本主庙神像开裂](/blog/2026/07/13/nanzhao-guwen-fu-vol1-ch03/)*
 
 ---
 
 > *相关阅读：*
-> - *[苍山龙脉：寻找南诏与大理国失落的王陵](/cangshan-tomb-series/)* — 老墨的前作，本书故事的前传
+> - *[苍山龙脉：寻找南诏与大理国失落的王陵](/blog/cangshan-tomb-series/)* — 老墨的前作，本书故事的前传

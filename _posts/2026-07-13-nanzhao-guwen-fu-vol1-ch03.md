@@ -355,10 +355,10 @@ tags:
 
 ---
 
-*上一章：[扎染铺里的褪色符](/2026/07/13/nanzhao-guwen-fu-vol1-ch02/)*
-*下一章：[沉默的守坟人](/2026/07/13/nanzhao-guwen-fu-vol1-ch04/)*
+*上一章：[扎染铺里的褪色符](/blog/2026/07/13/nanzhao-guwen-fu-vol1-ch02/)*
+*下一章：[沉默的守坟人](/blog/2026/07/13/nanzhao-guwen-fu-vol1-ch04/)*
 
 ---
 
 > *相关阅读：*
-> - *[苍山龙脉：寻找南诏与大理国失落的王陵](/cangshan-tomb-series/)* — 老墨的前作，本书故事的前传
+> - *[苍山龙脉：寻找南诏与大理国失落的王陵](/blog/cangshan-tomb-series/)* — 老墨的前作，本书故事的前传

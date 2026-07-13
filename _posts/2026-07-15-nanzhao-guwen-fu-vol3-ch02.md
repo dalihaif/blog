@@ -287,6 +287,6 @@ tags:
 
 ---
 
-*上一章：[七天倒计时](/2026/07/15/nanzhao-guwen-fu-vol3-ch01/)*
-*下一章：[三鼎合围](/2026/07/15/nanzhao-guwen-fu-vol3-ch03/)*
-*回到目录：[南诏古纹赋·总目录](/nan-zhao-gu-wen-fu/)*
+*上一章：[七天倒计时](/blog/2026/07/15/nanzhao-guwen-fu-vol3-ch01/)*
+*下一章：[三鼎合围](/blog/2026/07/15/nanzhao-guwen-fu-vol3-ch03/)*
+*回到目录：[南诏古纹赋·总目录](/blog/nan-zhao-gu-wen-fu/)*

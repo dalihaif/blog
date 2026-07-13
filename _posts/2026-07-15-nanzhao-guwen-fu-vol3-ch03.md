@@ -313,5 +313,5 @@ tags:
 
 ---
 
-*上一章：[龙腹之秘](/2026/07/15/nanzhao-guwen-fu-vol3-ch02/)*
-*回到目录：[南诏古纹赋·总目录](/nan-zhao-gu-wen-fu/)*
+*上一章：[龙腹之秘](/blog/2026/07/15/nanzhao-guwen-fu-vol3-ch02/)*
+*回到目录：[南诏古纹赋·总目录](/blog/nan-zhao-gu-wen-fu/)*

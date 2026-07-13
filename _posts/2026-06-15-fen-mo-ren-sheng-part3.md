@@ -13,7 +13,7 @@ categories:
   - 生活感悟
 ---
 
-> 📖 本文为《粉墨人生》自传系列下篇，讲述老墨从公益汇演到毕业圆梦、人生无暮年的收官岁月。[上篇：三十五年归档，半生留白 →](/2026/06/15/fen-mo-ren-sheng-part1.html) [中篇：师生情深 →](/2026/06/15/fen-mo-ren-sheng-part2.html)
+> 📖 本文为《粉墨人生》自传系列下篇，讲述老墨从公益汇演到毕业圆梦、人生无暮年的收官岁月。[上篇：三十五年归档，半生留白 →](/blog/2026/06/15/fen-mo-ren-sheng-part1/) [中篇：师生情深 →](/blog/2026/06/15/fen-mo-ren-sheng-part2/)
 
 ---
 
@@ -524,8 +524,8 @@ categories:
 ---
 
 **导航**
-- [← 上篇：三十五年归档，半生留白](/2026/06/15/fen-mo-ren-sheng-part1.html)
-- [← 中篇：师生情深](/2026/06/15/fen-mo-ren-sheng-part2.html)
+- [← 上篇：三十五年归档，半生留白](/blog/2026/06/15/fen-mo-ren-sheng-part1/)
+- [← 中篇：师生情深](/blog/2026/06/15/fen-mo-ren-sheng-part2/)
 - 下篇（当前）
 
 ---

@@ -331,12 +331,12 @@ tags:
 
 ---
 
-*上一章：[祖训动摇](/2026/07/13/nanzhao-guwen-fu-vol1-ch08/)*
-*下一章：[不速之客](/2026/07/14/nanzhao-guwen-fu-vol2-ch02/)*
-*回到目录：[南诏古纹赋·总目录](/nan-zhao-gu-wen-fu/)*
+*上一章：[祖训动摇](/blog/2026/07/13/nanzhao-guwen-fu-vol1-ch08/)*
+*下一章：[不速之客](/blog/2026/07/14/nanzhao-guwen-fu-vol2-ch02/)*
+*回到目录：[南诏古纹赋·总目录](/blog/nan-zhao-gu-wen-fu/)*
 
 ---
 
 > *相关阅读：*
-> - *[苍山龙脉：寻找南诏与大理国失落的王陵](/cangshan-tomb-series/)* — 老墨的前作，本书故事的前传
-> - *[龙场悟道到底悟到了什么](/2026/06/21/wang-yangming-xinxue-longchang-enlightenment/)* — 心学实操笔记
+> - *[苍山龙脉：寻找南诏与大理国失落的王陵](/blog/cangshan-tomb-series/)* — 老墨的前作，本书故事的前传
+> - *[龙场悟道到底悟到了什么](/blog/2026/06/21/wang-yangming-xinxue-longchang-enlightenment/)* — 心学实操笔记

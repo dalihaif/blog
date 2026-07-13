@@ -13,7 +13,7 @@ categories:
   - 生活感悟
 ---
 
-> 📖 本文为《粉墨人生》自传系列上篇，讲述老墨从三十五年档案室退休到初入校园翻车再封神的全部岁月。[中篇：师生情深 →](/2026/06/15/fen-mo-ren-sheng-part2.html) [下篇：圆梦收官 →](/2026/06/15/fen-mo-ren-sheng-part3.html)
+> 📖 本文为《粉墨人生》自传系列上篇，讲述老墨从三十五年档案室退休到初入校园翻车再封神的全部岁月。[中篇：师生情深 →](/blog/2026/06/15/fen-mo-ren-sheng-part2/) [下篇：圆梦收官 →](/blog/2026/06/15/fen-mo-ren-sheng-part3/)
 
 ---
 
@@ -1016,8 +1016,8 @@ categories:
 
 **导航**
 - 上篇（当前）
-- [中篇：师生情深 →](/2026/06/15/fen-mo-ren-sheng-part2.html)
-- [下篇：圆梦收官 →](/2026/06/15/fen-mo-ren-sheng-part3.html)
+- [中篇：师生情深 →](/blog/2026/06/15/fen-mo-ren-sheng-part2/)
+- [下篇：圆梦收官 →](/blog/2026/06/15/fen-mo-ren-sheng-part3/)
 
 ---
 

@@ -139,10 +139,10 @@ tags:
 
 ---
 
-*上一章：[白文初现](/2026/07/13/nanzhao-guwen-fu-vol1-ch05/)*
-*下一章：[暗流涌动](/2026/07/13/nanzhao-guwen-fu-vol1-ch07/)*
+*上一章：[白文初现](/blog/2026/07/13/nanzhao-guwen-fu-vol1-ch05/)*
+*下一章：[暗流涌动](/blog/2026/07/13/nanzhao-guwen-fu-vol1-ch07/)*
 
 ---
 
 > *相关阅读：*
-> - *[苍山龙脉：寻找南诏与大理国失落的王陵](/cangshan-tomb-series/)* — 老墨的前作，本书故事的前传
+> - *[苍山龙脉：寻找南诏与大理国失落的王陵](/blog/cangshan-tomb-series/)* — 老墨的前作，本书故事的前传

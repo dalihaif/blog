@@ -351,11 +351,11 @@ tags:
 
 ---
 
-*上一章：[沉默的守坟人](/2026/07/13/nanzhao-guwen-fu-vol1-ch04/)*
-*下一章：[后山夜火](/2026/07/13/nanzhao-guwen-fu-vol1-ch06/)*
+*上一章：[沉默的守坟人](/blog/2026/07/13/nanzhao-guwen-fu-vol1-ch04/)*
+*下一章：[后山夜火](/blog/2026/07/13/nanzhao-guwen-fu-vol1-ch06/)*
 
 ---
 
 > *相关阅读：*
-> - *[苍山龙脉：寻找南诏与大理国失落的王陵](/cangshan-tomb-series/)* — 老墨的前作，本书故事的前传
-> - *[龙场悟道到底悟到了什么](/2026/06/21/wang-yangming-xinxue-longchang-enlightenment/)* — 心学实操笔记
+> - *[苍山龙脉：寻找南诏与大理国失落的王陵](/blog/cangshan-tomb-series/)* — 老墨的前作，本书故事的前传
+> - *[龙场悟道到底悟到了什么](/blog/2026/06/21/wang-yangming-xinxue-longchang-enlightenment/)* — 心学实操笔记

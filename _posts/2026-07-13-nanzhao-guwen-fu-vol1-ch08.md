@@ -323,12 +323,12 @@ tags:
 
 ---
 
-*上一章：[暗流涌动](/2026/07/13/nanzhao-guwen-fu-vol1-ch07/)*
-*回到目录：[南诏古纹赋·总目录](/nan-zhao-gu-wen-fu/)*
+*上一章：[暗流涌动](/blog/2026/07/13/nanzhao-guwen-fu-vol1-ch07/)*
+*回到目录：[南诏古纹赋·总目录](/blog/nan-zhao-gu-wen-fu/)*
 
 ---
 
 > *相关阅读：*
-> - *[苍山龙脉：寻找南诏与大理国失落的王陵](/cangshan-tomb-series/)* — 老墨的前作，本书故事的前传
-> - *[龙场悟道到底悟到了什么](/2026/06/21/wang-yangming-xinxue-longchang-enlightenment/)* — 心学实操笔记
-> - *[以四十九岁之身，借圣贤胸襟观世事](/2026/06/23/wang-yangming-life-reflection/)* — 生命感悟随笔
+> - *[苍山龙脉：寻找南诏与大理国失落的王陵](/blog/cangshan-tomb-series/)* — 老墨的前作，本书故事的前传
+> - *[龙场悟道到底悟到了什么](/blog/2026/06/21/wang-yangming-xinxue-longchang-enlightenment/)* — 心学实操笔记
+> - *[以四十九岁之身，借圣贤胸襟观世事](/blog/2026/06/23/wang-yangming-life-reflection/)* — 生命感悟随笔

@@ -424,6 +424,6 @@ tags:
 
 ---
 
-*上一章：[三鼎合围](/2026/07/15/nanzhao-guwen-fu-vol3-ch03/)*
-*下一章：[此心光明](/2026/07/16/nanzhao-guwen-fu-vol4-ch02/)*
-*回到目录：[南诏古纹赋·总目录](/nan-zhao-gu-wen-fu/)*
+*上一章：[三鼎合围](/blog/2026/07/15/nanzhao-guwen-fu-vol3-ch03/)*
+*下一章：[此心光明](/blog/2026/07/16/nanzhao-guwen-fu-vol4-ch02/)*
+*回到目录：[南诏古纹赋·总目录](/blog/nan-zhao-gu-wen-fu/)*

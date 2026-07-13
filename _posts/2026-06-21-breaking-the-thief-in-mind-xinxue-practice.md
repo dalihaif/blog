@@ -16,7 +16,7 @@ categories:
   - 人生感悟
 ---
 
-上一篇我写了[龙场悟道到底悟到了什么](/2026/06/21/wang-yangming-xinxue-longchang-enlightenment/)，把心学的三根支柱——心即理、知行合一、致良知——从头到尾梳理了一遍。
+上一篇我写了[龙场悟道到底悟到了什么](/blog/2026/06/21/wang-yangming-xinxue-longchang-enlightenment/)，把心学的三根支柱——心即理、知行合一、致良知——从头到尾梳理了一遍。
 
 但说实话，道理懂了和真正用起来，中间隔着一道鸿沟。
 

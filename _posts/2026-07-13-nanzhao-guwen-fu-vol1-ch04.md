@@ -341,11 +341,11 @@ tags:
 
 ---
 
-*上一章：[本主庙神像开裂](/2026/07/13/nanzhao-guwen-fu-vol1-ch03/)*
-*下一章：[白文初现](/2026/07/13/nanzhao-guwen-fu-vol1-ch05/)*
+*上一章：[本主庙神像开裂](/blog/2026/07/13/nanzhao-guwen-fu-vol1-ch03/)*
+*下一章：[白文初现](/blog/2026/07/13/nanzhao-guwen-fu-vol1-ch05/)*
 
 ---
 
 > *相关阅读：*
-> - *[苍山龙脉：寻找南诏与大理国失落的王陵](/cangshan-tomb-series/)* — 老墨的前作，本书故事的前传
-> - *[以四十九岁之身，借圣贤胸襟观世事](/2026/06/23/wang-yangming-life-reflection/)* — 王阳明心学与生命感悟
+> - *[苍山龙脉：寻找南诏与大理国失落的王陵](/blog/cangshan-tomb-series/)* — 老墨的前作，本书故事的前传
+> - *[以四十九岁之身，借圣贤胸襟观世事](/blog/2026/06/23/wang-yangming-life-reflection/)* — 王阳明心学与生命感悟

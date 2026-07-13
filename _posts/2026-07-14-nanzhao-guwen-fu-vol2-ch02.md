@@ -341,11 +341,11 @@ tags:
 
 ---
 
-*上一章：[风起苍山](/2026/07/14/nanzhao-guwen-fu-vol2-ch01/)*
-*下一章：[夜袭祖坟](/2026/07/14/nanzhao-guwen-fu-vol2-ch03/)*
-*回到目录：[南诏古纹赋·总目录](/nan-zhao-gu-wen-fu/)*
+*上一章：[风起苍山](/blog/2026/07/14/nanzhao-guwen-fu-vol2-ch01/)*
+*下一章：[夜袭祖坟](/blog/2026/07/14/nanzhao-guwen-fu-vol2-ch03/)*
+*回到目录：[南诏古纹赋·总目录](/blog/nan-zhao-gu-wen-fu/)*
 
 ---
 
 > *相关阅读：*
-> - *[苍山龙脉：寻找南诏与大理国失落的王陵](/cangshan-tomb-series/)* — 老墨的前作，本书故事的前传
+> - *[苍山龙脉：寻找南诏与大理国失落的王陵](/blog/cangshan-tomb-series/)* — 老墨的前作，本书故事的前传

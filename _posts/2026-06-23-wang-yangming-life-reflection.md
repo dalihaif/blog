@@ -209,10 +209,10 @@ categories:
 ---
 
 *相关阅读：*
-- *[在49岁，用王阳明与毛主席的顶级思维重构档案管理的"战场"](/2026/06/20/top-level-thinking-wang-yangming-mao.html)* — 两位巨人的思维方式破局指南
-- *[龙场悟道到底悟到了什么？](/2026/06/21/wang-yangming-xinxue-longchang-enlightenment.html)* — 一个普通人读懂王阳明心学的实操笔记
-- *[自传续写：梨园与军号](/2026/06/15/childhood-memories-pear-orchard-bugle.html)* — 一个随军子弟的滇南童年记忆
-- *[粉墨人生（上）：三十五年归档，半生留白](/2026/06/15/fen-mo-ren-sheng-part1.html)* — 六十岁退休追梦的故事
+- *[在49岁，用王阳明与毛主席的顶级思维重构档案管理的"战场"](/blog/2026/06/20/top-level-thinking-wang-yangming-mao/)* — 两位巨人的思维方式破局指南
+- *[龙场悟道到底悟到了什么？](/blog/2026/06/21/wang-yangming-xinxue-longchang-enlightenment/)* — 一个普通人读懂王阳明心学的实操笔记
+- *[自传续写：梨园与军号](/blog/2026/06/15/childhood-memories-pear-orchard-bugle/)* — 一个随军子弟的滇南童年记忆
+- *[粉墨人生（上）：三十五年归档，半生留白](/blog/2026/06/15/fen-mo-ren-sheng-part1/)* — 六十岁退休追梦的故事
 
 ---
 

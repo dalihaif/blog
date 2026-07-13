@@ -96,7 +96,7 @@ header-mask: 0.3
     </ul>
     <p><strong>应用效果：</strong>工作效率提升30倍，错误率降低98%，年节约成本15万元</p>
     <p><strong>应用场景：</strong>医院档案室、企事业单位档案管理部门</p>
-    <a href="/2026/06/15/archive-label-printer.html" style="color: #FF5722; text-decoration: none;">查看详细介绍 →</a>
+    <a href="/blog/2026/06/15/archive-label-printer/" style="color: #FF5722; text-decoration: none;">查看详细介绍 →</a>
 </div>
 
 ### 医院印章管理系统
@@ -114,7 +114,7 @@ header-mask: 0.3
         <li>操作日志与权限管理</li>
     </ul>
     <p><strong>亮点：</strong>9张数据库表管住印章一生，15分钟复制到新单位</p>
-    <a href="/2026/06/16/seal-management-system.html" style="color: #E91E63; text-decoration: none;">查看详细介绍 →</a>
+    <a href="/blog/2026/06/16/seal-management-system/" style="color: #E91E63; text-decoration: none;">查看详细介绍 →</a>
     <div style="margin-top: 15px; display: grid; grid-template-columns: 1fr; gap: 10px;">
         <img src="/blog/img/in-post/portfolio-screenshots/seal-home.png" alt="印章管理系统 - 仪表盘" style="width: 100%; border-radius: 6px; border: 1px solid #eee;">
         <img src="/blog/img/in-post/portfolio-screenshots/seal-scroll.png" alt="印章管理系统 - 印章列表" style="width: 100%; border-radius: 6px; border: 1px solid #eee;">
@@ -135,7 +135,7 @@ header-mask: 0.3
         <li>离线可用，无需联网也能查号码</li>
     </ul>
     <p><strong>效果：</strong>查号码从1-2分钟→1秒，全院手机直达</p>
-    <a href="/2026/06/16/dfy-phonebook-pwa.html" style="color: #009688; text-decoration: none;">查看详细介绍 →</a>
+    <a href="/blog/2026/06/16/dfy-phonebook-pwa/" style="color: #009688; text-decoration: none;">查看详细介绍 →</a>
     <div style="margin-top: 15px; display: grid; grid-template-columns: 2fr 1fr; gap: 10px; align-items: start;">
         <img src="/blog/img/in-post/portfolio-screenshots/phonebook-desktop.png" alt="通讯录PWA - 桌面端" style="width: 100%; border-radius: 6px; border: 1px solid #eee;">
         <img src="/blog/img/in-post/portfolio-screenshots/phonebook-mobile.png" alt="通讯录PWA - 手机端" style="width: 100%; border-radius: 6px; border: 1px solid #eee;">
@@ -190,7 +190,7 @@ header-mask: 0.3
         </div>
     </div>
     <p style="margin-top: 20px;">
-        <a href="/2026/06/16/hospital-museum-cms.html" style="color: white; text-decoration: underline; font-weight: bold;">技术架构详解 →</a> &nbsp;|&nbsp;
+        <a href="/blog/2026/06/16/hospital-museum-cms/" style="color: white; text-decoration: underline; font-weight: bold;">技术架构详解 →</a> &nbsp;|&nbsp;
         <a href="https://github.com/dalihaif/DFY" target="_blank" style="color: white; text-decoration: underline;">GitHub 仓库 →</a>
     </p>
     <div style="margin-top: 15px; display: grid; grid-template-columns: 1fr; gap: 10px;">
@@ -246,7 +246,7 @@ header-mask: 0.3
             <p style="font-size: 14px;">多级权限体系，操作审计追溯</p>
         </div>
     </div>
-    <a href="/2026/06/15/archive-management-tutorial.html" style="color: white; text-decoration: underline; display: inline-block; margin-top: 15px;">阅读全文 →</a>
+    <a href="/blog/2026/06/15/archive-management-tutorial/" style="color: white; text-decoration: underline; display: inline-block; margin-top: 15px;">阅读全文 →</a>
 </div>
 
 ### 通用办公AI提示词合集
@@ -266,7 +266,7 @@ header-mask: 0.3
         <li>💻 编程开发类：代码生成、Bug调试、代码优化</li>
     </ul>
     <p><strong>特色：</strong>8大类60+提示词模板，即拿即用，持续更新</p>
-    <a href="/2026/06/15/ai-prompts-collection.html" style="color: #2196F3; text-decoration: none;">查看完整合集 →</a>
+    <a href="/blog/2026/06/15/ai-prompts-collection/" style="color: #2196F3; text-decoration: none;">查看完整合集 →</a>
 </div>
 
 ### 零基础搭博客教程
@@ -281,7 +281,7 @@ header-mask: 0.3
         <li>三大踩坑（baseurl 404 / nul 冲突 / git push 403 SSH方案）</li>
         <li>PWA 配置（manifest / 图标生成 / Service Worker）</li>
     </ul>
-    <a href="/2026/06/16/build-your-blog.html" style="color: #FF9800; text-decoration: none;">阅读全文 →</a>
+    <a href="/blog/2026/06/16/build-your-blog/" style="color: #FF9800; text-decoration: none;">阅读全文 →</a>
 </div>
 
 ### Git 小白入门教程
@@ -295,7 +295,7 @@ header-mask: 0.3
         <li>五个命令走天下（init/add/commit/push/pull）</li>
         <li>急救操作 & 速查表</li>
     </ul>
-    <a href="/2026/06/16/git-for-beginners.html" style="color: #607D8B; text-decoration: none;">阅读全文 →</a>
+    <a href="/blog/2026/06/16/git-for-beginners/" style="color: #607D8B; text-decoration: none;">阅读全文 →</a>
 </div>
 
 ### 电脑越用越卡修复指南
@@ -309,7 +309,7 @@ header-mask: 0.3
         <li>重置系统（重置前确认/操作步骤/装回软件/恢复备份）</li>
         <li>硬件升级（换 SSD / 加内存 / 清灰换硅脂）</li>
     </ul>
-    <a href="/2026/06/17/pc-slow-fix-guide.html" style="color: #F44336; text-decoration: none;">阅读全文 →</a>
+    <a href="/blog/2026/06/17/pc-slow-fix-guide/" style="color: #F44336; text-decoration: none;">阅读全文 →</a>
 </div>
 
 ### Docker 集装箱入门课
@@ -325,7 +325,7 @@ header-mask: 0.3
         <li>实战案例（私有云盘/博客系统/医院全家桶）</li>
         <li>日常维护 & 常见踩坑 & 进阶路线</li>
     </ul>
-    <a href="/2026/06/17/docker-for-beginners.html" style="color: #00BCD4; text-decoration: none;">阅读全文 →</a>
+    <a href="/blog/2026/06/17/docker-for-beginners/" style="color: #00BCD4; text-decoration: none;">阅读全文 →</a>
 </div>
 
 ### 易经入门心法
@@ -341,7 +341,7 @@ header-mask: 0.3
         <li>入门建议：买好版本、学铜钱法、遇事起卦、看不懂翻易传</li>
     </ul>
     <p><strong>核心观点：</strong>易经的价值不是预测未来，是启迪当下。卦象是顾问，不是命运。</p>
-    <a href="/2026/06/25/how-to-learn-yijing-practically.html" style="color: #9C27B; text-decoration: none;">阅读全文 →</a>
+    <a href="/blog/2026/06/25/how-to-learn-yijing-practically/" style="color: #9C27B; text-decoration: none;">阅读全文 →</a>
 </div>
 
 ---
@@ -363,7 +363,7 @@ header-mask: 0.3
         <li>时代变迁中的人生感悟</li>
         <li>对未来的期许与展望</li>
     </ul>
-    <a href="/2026/06/15/childhood-memories-pear-orchard-bugle.html" style="color: #d84315; text-decoration: none; font-weight: bold;">阅读完整故事 →</a>
+    <a href="/blog/2026/06/15/childhood-memories-pear-orchard-bugle/" style="color: #d84315; text-decoration: none; font-weight: bold;">阅读完整故事 →</a>
 </div>
 
 <div style="margin-top: 20px; padding: 30px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; color: white;">
@@ -375,9 +375,9 @@ header-mask: 0.3
     </blockquote>
     <p><strong>系列连载：</strong></p>
     <ul>
-        <li>📝 <a href="/2026/06/15/fen-mo-ren-sheng-part1.html" style="color: white; text-decoration: underline;">上篇：三十五年归档，半生留白</a> —— 从退休到入学的逆风翻盘</li>
-        <li>🎭 <a href="/2026/06/15/fen-mo-ren-sheng-part2.html" style="color: white; text-decoration: underline;">中篇：登台与成长</a> —— 从翻车到封神的蜕变之路</li>
-        <li>🏆 <a href="/2026/06/15/fen-mo-ren-sheng-part3.html" style="color: white; text-decoration: underline;">下篇：圆梦收官</a> —— 从师生情深到毕业圆梦</li>
+        <li>📝 <a href="/blog/2026/06/15/fen-mo-ren-sheng-part1/" style="color: white; text-decoration: underline;">上篇：三十五年归档，半生留白</a> —— 从退休到入学的逆风翻盘</li>
+        <li>🎭 <a href="/blog/2026/06/15/fen-mo-ren-sheng-part2/" style="color: white; text-decoration: underline;">中篇：登台与成长</a> —— 从翻车到封神的蜕变之路</li>
+        <li>🏆 <a href="/blog/2026/06/15/fen-mo-ren-sheng-part3/" style="color: white; text-decoration: underline;">下篇：圆梦收官</a> —— 从师生情深到毕业圆梦</li>
     </ul>
 </div>
 
@@ -396,7 +396,7 @@ header-mask: 0.3
         <li>💡 知行合一：一个档案管理员的笨功夫</li>
         <li>🕯️ 致良知：心底那盏不灭的灯</li>
     </ul>
-    <a href="/2026/06/23/wang-yangming-life-reflection.html" style="color: #4fc3f7; text-decoration: none;">阅读全文 →</a>
+    <a href="/blog/2026/06/23/wang-yangming-life-reflection/" style="color: #4fc3f7; text-decoration: none;">阅读全文 →</a>
 </div>
 
 <div style="margin-top: 20px; padding: 30px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); border-radius: 10px; color: #e0e0e0;">
@@ -413,7 +413,7 @@ header-mask: 0.3
         <li>第三卷·南诏分鼎·上古遗祸 ✅ 已完结（3章）</li>
         <li>第四卷·此心光明·万古守脉 ✅ 已完结（2章·全书终）</li>
     </ul>
-    <a href="/nan-zhao-gu-wen-fu/" style="color: #ffd700; text-decoration: none;">进入小说专区 →</a>
+    <a href="/blog/nan-zhao-gu-wen-fu/" style="color: #ffd700; text-decoration: none;">进入小说专区 →</a>
 </div>
 
 ---
