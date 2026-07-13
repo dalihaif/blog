@@ -400,18 +400,18 @@ header-mask: 0.3
 </div>
 
 <div style="margin-top: 20px; padding: 30px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); border-radius: 10px; color: #e0e0e0;">
-    <h3 style="margin-top: 0; color: #ffd700;">📖 南诏古纹赋（长篇玄幻小说·连载中）</h3>
-    <p style="color: #a0a0a0;"><strong>类型：</strong>长篇玄幻小说 | 大理苍山洱海背景</p>
-    <p style="color: #c0c0c0;"><strong>内容概要：</strong>白文失传百年，地龙脉封印松动。档案管理员老墨与书脉守脉人自刚，在苍山脚下揭开一段被正史抹去的千年秘辛。</p>
+    <h3 style="margin-top: 0; color: #ffd700;">📖 南诏古纹赋（长篇玄幻小说·全书完结）</h3>
+    <p style="color: #a0a0a0;"><strong>类型：</strong>长篇玄幻小说 | 大理苍山洱海背景 | 全书20章</p>
+    <p style="color: #c0c0c0;"><strong>内容概要：</strong>白文失传百年，地龙脉封印松动。档案管理员老墨与书脉守脉人自刚，在苍山脚下揭开一段被正史抹去的千年秘辛。最终以心学之力"化"地龙——不是封印，是引导与和解。</p>
     <blockquote style="border-left: 4px solid #ffd700; padding-left: 15px; margin: 20px 0; font-style: italic; color: #888;">
-        "苍山不动，洱海不枯，坟中字不出。"
+        "此心光明。万古守脉。"
     </blockquote>
-    <p style="color: #c0c0c0;"><strong>四卷结构：</strong></p>
+    <p style="color: #c0c0c0;"><strong>四卷结构（全书完结）：</strong></p>
     <ul style="color: #b0b0b0;">
         <li>第一卷·符文褪色·市井惊变 ✅ 已完结（8章）</li>
-        <li>第二卷·地宫星棺·三脉纷争 📝 即将连载</li>
-        <li>第三卷·南诏分鼎·上古遗祸 📝 即将连载</li>
-        <li>第四卷·此心光明·万古守脉 📝 即将连载</li>
+        <li>第二卷·地宫星棺·三脉纷争 ✅ 已完结（7章）</li>
+        <li>第三卷·南诏分鼎·上古遗祸 ✅ 已完结（3章）</li>
+        <li>第四卷·此心光明·万古守脉 ✅ 已完结（2章·全书终）</li>
     </ul>
     <a href="/nan-zhao-gu-wen-fu/" style="color: #ffd700; text-decoration: none;">进入小说专区 →</a>
 </div>
