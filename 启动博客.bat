@@ -4,6 +4,10 @@ echo ========================================
 echo   老墨的博客 - 本地预览启动脚本
 echo ========================================
 echo.
+
+rem 确保 Ruby 在 PATH 中
+set PATH=C:\Ruby32-x64\bin;%PATH%
+
 echo 正在清理旧构建缓存...
 if exist _site rd /s /q _site
 
@@ -15,6 +19,13 @@ if errorlevel 1 (
     echo 下载地址: https://rubyinstaller.org/
     pause
     exit /b 1
+)
+
+echo.
+echo 正在启用 MSYS2 开发工具...
+call ridk enable
+if errorlevel 1 (
+    echo [警告] ridk enable 失败，部分 gem 编译可能受影响
 )
 
 echo.
@@ -37,6 +48,6 @@ echo.
 echo 按 Ctrl+C 停止服务器
 echo.
 
-call bundle exec jekyll serve --baseurl "/blog"
+ruby -rbundler/setup -e "load Gem.bin_path('jekyll', 'jekyll')" -- serve --baseurl "/blog"
 
 pause
